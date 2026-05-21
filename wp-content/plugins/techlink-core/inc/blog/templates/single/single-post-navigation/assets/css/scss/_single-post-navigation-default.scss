@@ -1,0 +1,111 @@
+/* ==========================================================================
+   Single Post Navigation styles
+   ========================================================================== */
+
+#qodef-single-post-navigation {
+    @include qodefRelativeLayout();
+    margin: 80px 0 3px;
+
+    .qodef-m-inner {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .qodef-m-nav {
+        position: relative;
+        display: flex;
+        align-items: center;
+
+        .qodef-m-nav-icon-holder {
+            background-color: $heading-color;
+            color: #fff;
+            transition: $background-color-transition;
+
+            svg {
+                display: block;
+                fill: none;
+                stroke: currentColor;
+
+                line {
+                    stroke: currentColor;
+                    stroke-dasharray: 20;
+                    stroke-dashoffset: 0;
+                    transition: stroke-dashoffset .6s ease;
+                }
+            }
+        }
+
+        &:hover {
+
+            .qodef-m-nav-icon-holder {
+
+                svg {
+
+                    line {
+                        stroke-dashoffset: 40;
+                    }
+                }
+            }
+        }
+
+        &.qodef--prev,
+        &.qodef--next {
+
+            .qodef-m-nav-icon {
+                stroke: #fff;
+            }
+        }
+
+        &.qodef--prev {
+
+            .qodef-m-nav-icon-holder {
+                background-color: $main-color;
+                margin-right: 19px;
+            }
+        }
+
+        &.qodef--next {
+            flex-direction: row-reverse;
+            text-align: right;
+            margin-left: auto;
+
+            .qodef-m-nav-icon-holder {
+                margin-left: 14px;
+            }
+        }
+
+        &.qodef--back-link {
+            position: absolute;
+            top: 0;
+            left: calc(50% - 27px); // 27 is half size of icon holder width
+
+            .qodef-m-nav-icon-holder {
+                background-color: #ebeced;
+            }
+
+            .qodef-m-nav-icon {
+                fill: #fff;
+            }
+        }
+    }
+
+    .qodef-m-nav-icon-holder {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 54px;
+        height: 54px;
+        border-radius: 4px;
+    }
+
+    .qodef-m-nav-label {
+        @include qodefH7Style($heading-color, 14px, 0.350em);
+        font-weight: 600;
+
+        @include qodefScreenSize680 {
+            display: none;
+        }
+    }
+}

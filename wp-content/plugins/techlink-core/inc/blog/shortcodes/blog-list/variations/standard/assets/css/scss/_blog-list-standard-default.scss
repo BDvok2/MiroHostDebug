@@ -1,0 +1,158 @@
+/* ==========================================================================
+   Blog List styles
+   ========================================================================== */
+
+.qodef-blog {
+	
+	&.qodef-item-layout--standard {
+
+		&.qodef--hover-disabled {
+
+			.qodef-blog-item {
+
+				&.qodef--active {
+
+					.qodef-e-media {
+
+						img {
+							transform: scale(1) translateX(0);
+						}
+					}
+				}
+
+				.qodef-e-media {
+
+					img {
+						transform: scale(1) translateX(0);
+					}
+
+					&:hover {
+
+						img {
+							transform: scale(1) translateX(0);
+						}
+					}
+				}
+			}
+		}
+
+		.qodef-blog-item {
+
+			&.qodef--active {
+
+				.qodef-e-media {
+
+					img {
+						transform: scale(1.05) translateX(7px);
+					}
+				}
+			}
+
+			.qodef-e-media {
+				margin-bottom: 19px;
+				overflow: hidden;
+
+				img {
+					transform: scale(1.05) translateX(0);
+					transition: transform .45s cubic-bezier(.22,.61,.36,1);
+					will-change: transform;
+
+					.qodef--hover-disabled & {
+						transform: scale(1) translateX(0);
+					}
+				}
+
+				&:hover {
+
+					img {
+						transform: scale(1.05) translateX(7px);
+
+						.qodef--hover-disabled & {
+							transform: scale(1) translateX(0);
+						}
+					}
+				}
+			}
+
+			.qodef-e-title-link {
+
+				&:hover {
+					color: currentColor;
+				}
+			}
+		}
+		
+		&.qodef-col-num--1 {
+
+			article {
+
+				.qodef-e-content {
+
+					> .qodef-e-text {
+
+						> .qodef-e-title {
+							margin-top: -4px;
+						}
+					}
+				}
+
+				&:not(:last-child) {
+
+					.qodef-e-info {
+
+						&.qodef-info--bottom {
+							margin-bottom: 40px;
+						}
+					}
+
+					&.format-link {
+
+						.qodef-e-link {
+							margin-bottom: 50px;
+						}
+					}
+
+					&.format-quote {
+
+						.qodef-e-quote {
+							margin-bottom: 50px;
+						}
+					}
+				}
+			}
+		}
+		
+		&:not(.qodef-col-num--1) {
+
+			article {
+
+				.qodef-e-media {
+					margin-bottom: 19px;
+				}
+
+				&.format-link {
+					
+					.qodef-e-link {
+						padding: 76px;
+					}
+					
+					.qodef-e-link-icon {
+						right: 40px;
+						width: 140px;
+					}
+				}
+				
+				&.format-quote {
+					
+					.qodef-e-quote {
+						padding: 76px;
+						
+						&:before {
+							font-size: 540px;
+						}
+					}
+				}
+			}
+		}
+	}
+}

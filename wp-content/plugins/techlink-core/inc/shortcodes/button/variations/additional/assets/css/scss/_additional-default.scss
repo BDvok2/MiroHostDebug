@@ -1,0 +1,29 @@
+.qodef-button {
+    
+    &.qodef-layout--additional {
+        @include qodefButtonAdditionalColor();
+        width: 100%;
+        padding: 12px 59px;
+
+        &.qodef-no-border-radius {
+            border-radius: 0;
+        }
+
+        &.qodef-simple {
+            @include qodefButtonArrow();
+
+            &:hover {
+                @include qodefButtonHoverArrow();
+            }
+        }
+
+        &:not(.qodef-simple) {
+            @include qodefButtonArrowStatic();
+
+            &:hover {
+                @include qodefButtonAdditionalHoverColor();
+                @include qodefButtonArrowHover();
+            }
+        }
+    }
+}

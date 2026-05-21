@@ -1,0 +1,46 @@
+/* ==========================================================================
+   Section Title shortcode responsive styles
+   ========================================================================== */
+
+.qodef-section-title {
+	
+	@include qodefScreenSize1024 {
+		
+		&.qodef-title-break--disabled {
+			
+			.qodef-m-title {
+				
+				br {
+					display: none;
+				}
+			}
+		}
+
+		&.qodef-disable-below--1024 {
+
+			.qodef-m-background-text {
+				display: none;
+			}
+		}
+	}
+
+	@include qodefScreenSize768 {
+
+		&.qodef-disable-below--768 {
+
+			.qodef-m-background-text {
+				display: none;
+			}
+		}
+	}
+
+	@include qodefScreenSize680 {
+
+		&.qodef-disable-below--680 {
+
+			.qodef-m-background-text {
+				display: none;
+			}
+		}
+	}
+}

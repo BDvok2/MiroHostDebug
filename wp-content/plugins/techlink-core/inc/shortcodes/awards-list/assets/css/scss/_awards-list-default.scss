@@ -1,0 +1,70 @@
+/* ==========================================================================
+   Awards List style - begin
+   ========================================================================== */
+
+.qodef-awards-list {
+
+	.qodef-m-item {
+		margin: 0 0 48px;
+	}
+
+	.qodef-e-info {
+		@include qodefMetaInfo($text-color);
+		margin: 0 0 4px;
+
+		> span {
+			margin-right: 6px;
+
+			&:after {
+				content: '−';
+				margin-left: 10px;
+				color: $text-color;
+			}
+
+			&:last-child {
+				margin-right: 0;
+
+				&:after {
+					display: none;
+				}
+			}
+		}
+
+		.qodef-e-location {
+			color: $main-color;
+		}
+	}
+
+	.qodef-e-title {
+		margin: 0;
+	}
+
+	.qodef-e-description {
+		margin: 11px 0 0;
+	}
+
+	&.qodef-layout--2-columns {
+
+		.qodef-m-items {
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.qodef-m-item {
+			width: 50%;
+			box-sizing: border-box;
+
+			&:nth-child(2n) {
+				padding-left: 50px;
+			}
+
+			&:nth-child(2n+1) {
+				padding-right: 50px;
+			}
+		}
+	}
+}
+
+/* ==========================================================================
+   Awards List style style - end
+   ========================================================================== */

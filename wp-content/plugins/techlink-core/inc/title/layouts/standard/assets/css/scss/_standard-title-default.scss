@@ -1,0 +1,15 @@
+/* ==========================================================================
+   Standard Title layout styles
+   ========================================================================== */
+
+.qodef-page-title {
+
+	&.qodef-title--standard {
+
+		.qodef-m-subtitle {
+			@include qodefMetaInfo($text-color);
+			font-size: 13px;
+			margin: 0 0 5px 0;
+		}
+	}
+}

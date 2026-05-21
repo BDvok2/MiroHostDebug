@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Global styles
+   ========================================================================== */
+
+.techlink-core-page-inline-style {
+	position: absolute !important;
+	width: 0;
+	height: 0;
+	line-height: 1;
+	display: none;
+}
+
+.qodef-scroll-svg-image {
+
+	path:first-child {
+		animation: 2s qode-svg-scroll-animation infinite;
+	}
+}
+
+.qodef-custom-svg-play-button {
+
+	polygon {
+		fill: transparent;
+		stroke: #000000;
+		stroke-width: 0.8729;
+		stroke-miterlimit: 10;
+		transition: fill .2s ease-out;
+	}
+
+	&:hover {
+
+		polygon {
+			fill: #000000;
+		}
+	}
+}

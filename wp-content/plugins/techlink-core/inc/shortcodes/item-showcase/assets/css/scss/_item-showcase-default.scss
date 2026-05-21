@@ -1,0 +1,121 @@
+/* ==========================================================================
+   Item Showcase shortcode styles
+   ========================================================================== */
+
+$space-between-items: 66px;
+$offset-size: 50px;
+$offset-animation: opacity .6s ease, transform .6s ease;
+
+.qodef-item-showcase {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	visibility: hidden;
+	
+	.qodef-m-image {
+		position: relative;
+		flex-shrink: 0;
+		margin: 0 47px;
+		opacity: 0;
+		transform: translateY($offset-size);
+		transition: $offset-animation;
+		
+		img {
+			display: block;
+		}
+	}
+	
+	.qodef-m-items {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		
+		&.qodef--left {
+			text-align: right;
+
+			.qodef-m-item {
+				flex-direction: row-reverse;
+				transform: translateX(- $offset-size);
+
+				.qodef-m-icon-wrapper {
+		            margin-right: 0;
+		            margin-left: 31px;
+				}
+			}
+		}
+		
+		&.qodef--right {
+			text-align: left;
+
+			.qodef-m-item {
+				transform: translateX($offset-size);
+			}
+		}
+	}
+	
+	.qodef-m-item {
+		position: relative;
+	    display: flex;
+	    width: 100%;
+		margin-top: $space-between-items;
+		opacity: 0;
+		transition: $offset-animation;
+
+		.qodef-m-icon-wrapper {
+			flex-shrink: 0;
+			margin-top: -4px;
+            margin-right: 31px;
+		}
+		
+		&:first-child {
+			margin-top: 0;
+		}
+		
+		@for $i from 1 through 6 {
+			
+			&:nth-child(#{$i}) {
+				transition-delay: #{$i*150}ms;
+			}
+		}
+	}
+	
+	.qodef-e-title {
+		margin: 0;
+	}
+	
+	.qodef-e-title-link {
+		@include qodefTypographyLayout();
+		
+		&:hover {
+			color: $main-color;
+		}
+	}
+	
+	.qodef-e-text {
+		margin: 12px 0 0;
+	}
+	
+	&.qodef--init {
+		visibility: visible;
+		
+		.qodef-m-image {
+			opacity: 1;
+			transform: translateY(0);
+		}
+
+		.qodef-m-items {
+
+			&.qodef--left,
+			&.qodef--right {
+
+				.qodef-m-item {
+					opacity: 1;
+					transform: translateX(0);
+				}
+			}
+		}
+	}
+}

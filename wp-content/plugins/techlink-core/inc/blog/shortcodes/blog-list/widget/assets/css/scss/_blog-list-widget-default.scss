@@ -1,0 +1,18 @@
+/* ==========================================================================
+   Blog List widget styles
+   ========================================================================== */
+
+.widget.widget_techlink_core_blog_list {
+
+	.qodef-widget-title {
+		margin: 0 0 22px;
+	}
+
+	.qodef-blog .qodef-blog-item .qodef-e-title a {
+		color: $heading-color;
+
+		&:hover {
+			color: $main-color;
+		}
+	}
+}

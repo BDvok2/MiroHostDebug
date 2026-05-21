@@ -1,0 +1,97 @@
+/* ==========================================================================
+   Contact Form 7 widget styles
+   ========================================================================== */
+
+.qodef-contact-form-7 {
+	@include qodefRelativeLayout();
+	
+	.ajax-loader {
+		position: absolute;
+		right: -10px;
+	}
+
+	.qodef-cf7-newsletter {
+		display: flex;
+
+		input[type="email"] {
+			margin: 0;
+		}
+
+		.qodef-button {
+			width: 50px;
+			height: 100%;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			padding: 0;
+			color: #fff;
+			background-color: $main-color;
+			border: 0;
+			border-radius: 2px;
+
+			> svg {
+
+				path {
+					fill: #fff;
+				}
+
+				polyline {
+					fill: none;
+					stroke:#FFFFFF;
+					stroke-miterlimit:10;
+				}
+			}
+
+			&:hover {
+				color: #fff;
+			}
+		}
+	}
+
+	.qodef-cf7-2-column-layout {
+		display: flex;
+		align-items: flex-end;
+
+		input,
+		button {
+			margin: 0;
+		}
+
+		.qodef-column {
+
+			&:first-child {
+				width: 100%;
+			}
+
+			&:last-child {
+				flex-shrink: 0;
+				margin-left: 30px;
+			}
+
+			.qodef-button {
+				padding: 10px 75px;
+			}
+		}
+
+		@include qodefScreenSize680 {
+			flex-direction: column;
+
+			.qodef-column {
+
+				&:first-child {
+					margin-bottom: 20px;
+				}
+
+				&:last-child {
+					width: 100%;
+					margin-left: 0;
+				}
+
+				.qodef-button {
+					width: 100%;
+					padding: 10px 50px;
+				}
+			}
+		}
+	}
+}

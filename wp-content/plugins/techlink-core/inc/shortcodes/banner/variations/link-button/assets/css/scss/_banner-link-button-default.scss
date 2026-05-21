@@ -1,0 +1,51 @@
+.qodef-banner {
+	
+	&.qodef-layout--link-button {
+
+		&:hover {
+
+			.qodef-m-image {
+				clip-path: inset(0 0 0 0);
+				-webkit-clip-path: inset(0 0 0 0);
+			}
+		}
+
+		.qodef-m-image {
+			clip-path: inset(0 100% 0 0);
+			-webkit-clip-path: inset(0 100% 0 0);
+			transition: clip-path .5s cubic-bezier(.31, .29, .05, .96);
+		}
+
+		.qodef-m-content-inner {
+			align-items: flex-start;
+			justify-content: space-between;
+			flex-direction: column;
+			padding: 106px 12.5% 50px;
+		}
+
+		.qodef-m-button {
+			position: relative;
+			margin: 0;
+			z-index: 1;
+		}
+
+		&.qodef-custom-layout--enabled {
+
+			.qodef-m-content-inner {
+
+				&:hover {
+
+					.qodef-m-button {
+
+						.qodef-button {
+
+							&.qodef-layout--textual {
+								color: #fff !important;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

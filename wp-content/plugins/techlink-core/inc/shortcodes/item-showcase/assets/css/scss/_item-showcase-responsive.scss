@@ -1,0 +1,85 @@
+/* ==========================================================================
+   Item Showcase shortcode responsive styles
+   ========================================================================== */
+$space-between-items: 40px;
+
+.qodef-item-showcase {
+	
+	@include qodefScreenSize1024 {
+		align-items: flex-start;
+		flex-wrap: wrap;
+		padding-bottom: 122px;
+		
+		.qodef-m-image {
+			position: absolute;
+			bottom: 0;
+			width: 50%;
+			margin: 0 !important;
+		}
+		
+		.qodef-m-items {
+			width: 100%;
+			padding-left: 50%;
+			
+			.qodef-m-item {
+				transition-delay: 0ms;
+			}
+			
+			&.qodef--left {
+				text-align: left;
+
+				.qodef-m-item {
+					flex-direction: row;
+
+					.qodef-m-icon-wrapper {
+			            margin-right: 31px;
+			            margin-left: 0;
+					}
+				}
+			}
+			
+			&.qodef--right {
+				
+				.qodef-m-item {
+					
+					&:first-child {
+						margin-top: $space-between-items;
+					}
+				}
+			}
+		}
+		
+		.qodef-m-item {
+			margin-top: $space-between-items;
+		}
+	}
+	
+	@include qodefScreenSize680 {
+		padding-bottom: 0;
+		
+		.qodef-m-image {
+			display: none;
+		}
+		
+		.qodef-m-items {
+			left: 0;
+			width: 100%;
+			padding-left: 0;
+		}
+	}
+
+	&.qodef-responsive-layout--simplified {
+
+		@include qodefScreenSize1024 {
+			padding-bottom: 0;
+
+			.qodef-m-image {
+				display: none;
+			}
+
+			.qodef-m-items {
+				padding-left: 0;
+			}
+		}
+	}
+}

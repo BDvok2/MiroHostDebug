@@ -1,0 +1,89 @@
+/* ==========================================================================
+   Section Title shortcode styles
+   ========================================================================== */
+
+.qodef-section-title {
+    @include qodefRelativeLayout();
+
+    &.qodef-alignment--center {
+        text-align: center;
+    }
+
+    &.qodef-alignment--left {
+        text-align: left;
+    }
+
+    &.qodef-alignment--right {
+        text-align: right;
+    }
+
+    .qodef-m-content {
+        position: relative;
+    }
+
+    .qodef-m-title {
+        margin: 0;
+    }
+
+    .qodef-m-subtitle {
+        @include qodefMetaInfo($text-color);
+        margin: 0 0 8px;
+    }
+
+    .qodef-m-text {
+        margin: 13px 0 0;
+    }
+
+    div.qodef-m-text {
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    .qodef-m-background-text {
+        position: relative;
+        top: 7px;
+        font-family: $heading-font;
+        font-size: 140px;
+        font-weight: 700;
+        line-height: .8;
+        text-transform: uppercase;
+        color: rgba(#ebeced, .75);
+        transform: translateY(50%);
+    }
+
+    &.qodef--has-appear {
+
+        .qodef-m-background-text {
+            white-space: nowrap;
+
+            .qodef-m-background-character {
+                display: inline-block;
+                opacity: 0;
+                transform: translateX(-30px);
+                transition: .4s ease-out;
+
+                &.qodef--appear {
+                    opacity: 1;
+                    transform: translateX(0);
+                }
+
+                @for $i from 1 through 10 {
+
+                    &:nth-child(#{$i}) {
+                        transition-delay: #{$i*100}ms;
+                    }
+                }
+            }
+        }
+    }
+
+    &.qodef-background-text-layout--predefined {
+
+        .qodef-m-background-text {
+
+            @include qodefScreenSize1024 {
+                font-size: 150px !important;
+            }
+        }
+    }
+}

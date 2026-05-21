@@ -1,0 +1,71 @@
+/* ==========================================================================
+   Image With Text shortcode styles
+   ========================================================================== */
+
+.qodef-image-with-text {
+
+    &.qodef-layout--text-below {
+
+        &.qodef--active {
+
+            .qodef-m-background-image {
+
+                .qodef-m-image {
+                    transform: translateY(-30px);
+                }
+            }
+        }
+
+        .qodef-m-background-image {
+            position: relative;
+
+            &:hover {
+
+                .qodef-m-image {
+                    transform: translateY(-30px);
+                }
+            }
+        }
+
+        .qodef-m-image {
+            position: absolute;
+            top: -77px;
+            left: 0;
+            transform: translateY(0);
+            transition: transform .6s ease;
+            will-change: transform;
+        }
+
+        .qodef-m-title {
+
+            a {
+
+                &:hover {
+                    color: currentColor;
+                }
+            }
+        }
+
+        &.qodef-image-shadow--enabled {
+
+            .qodef-m-background-image {
+                box-shadow: $box-shadow-2;
+            }
+        }
+
+        &.qodef-image-border--enabled {
+
+            .qodef-m-background-image {
+                border: 1px solid $border-color;
+            }
+        }
+
+        &.qodef-image-radius--enabled {
+
+            .qodef-m-background-image {
+                overflow: hidden;
+                border-radius: 5px;
+            }
+        }
+    }
+}

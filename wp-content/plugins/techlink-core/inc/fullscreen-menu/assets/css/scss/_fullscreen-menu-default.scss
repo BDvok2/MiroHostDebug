@@ -1,0 +1,178 @@
+/* ==========================================================================
+   Full Screen Menu styles
+   ========================================================================== */
+
+#qodef-fullscreen-area {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: $additional-color;
+	overflow-x: hidden !important;
+	visibility: hidden;
+	opacity: 0;
+	z-index: 99; /* smaller than header, bigger than content */
+	background-image: url(/wp-content/themes/techlink/assets/img/fullscreen-bg.png);
+	background-repeat: no-repeat;
+	background-position: center right;
+	background-size: cover;
+
+	.qodef-content-grid {
+		height: 100%;
+		background-color: white;
+		margin: 0;
+		padding-left: 12.8%;
+		width: 50%;
+		
+		@include qodefScreenSize768 {
+			padding-left: 12.8%;
+			width: 100%;
+		}
+
+		@include qodefScreenSize680 {
+			padding-left: 12.8%;
+		}
+		
+		.qodef-fullscreen-menu {
+			width: 100%;
+		}
+	}
+
+	.qodef-fullscreen-menu-animate--in & {
+		animation: qode-fade-in .25s linear both;
+
+		.qodef-fullscreen-menu {
+
+			> ul {
+
+				> li {
+					opacity: 1;
+					transform: translateX(0);
+					transition: opacity .3s ease, transform .3s ease;
+
+					@for $i from 1 through 10 {
+
+						&:nth-child(#{$i}) {
+							transition-delay: #{$i*100}ms;
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	.qodef-fullscreen-menu-animate--out & {
+		animation: qode-fade-out .25s linear both;
+	}
+}
+
+#qodef-fullscreen-area-inner {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+
+$menu-top-bottom-spacing: 5px 0 9px;
+$menu-level-two-left-spacing: 20px;
+
+.qodef-fullscreen-menu {
+	position: relative;
+	top: 0;
+	margin: 0 auto;
+	text-align: left;
+	
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		
+		li {
+			position: relative;
+			margin: 0;
+			padding: 0;
+			
+			a {
+				
+				.qodef-menu-item-arrow {
+					display: none;
+				}
+			}
+		}
+		
+		&.sub-menu {
+			display: none;
+		}
+	}
+	
+	.qodef-menu-item-icon {
+		margin-right: 5px;
+	}
+	
+	.qodef-mega-menu-widget-holder {
+		display: none;
+	}
+	
+	> ul {
+		
+		> li {
+			opacity: 0;
+			transform: translateX(-30px);
+			
+			> a {
+				@include qodefMenuLevelOneInitialStyle(h2, $heading-color);
+				font-size: 70px;
+				line-height: 1.286em;
+				letter-spacing: 0.025em;
+				
+				&:hover {
+					@include qodefMenuLevelOneHoverFullscreenStyle();
+				}
+			}
+			
+			&.current-menu-ancestor,
+			&.current-menu-item {
+				
+				> a {
+					@include qodefMenuLevelOneHoverFullscreenStyle();
+				}
+			}
+		}
+	}
+	
+	.qodef-drop-down-second-inner {
+		
+		> ul {
+			padding: $menu-top-bottom-spacing;
+		}
+		
+		ul {
+			
+			li {
+				
+				> a {
+					@include qodefMenuLevelTwoInitialStyle();
+					@include qodefMenuLevelOneInitialStyle(h6, $heading-color);
+					letter-spacing: 0.300em;
+					line-height: 2.375em;
+					margin: 0;
+					
+					&:hover {
+						@include qodefMenuLevelTwoHoverStyle();
+					}
+				}
+				
+				&.current-menu-ancestor,
+				&.current-menu-item {
+					
+					> a {
+						@include qodefMenuLevelTwoHoverStyle();
+					}
+				}
+			}
+		}
+	}
+}

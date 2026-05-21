@@ -1,0 +1,120 @@
+/* ==========================================================================
+   Image With Text shortcode styles
+   ========================================================================== */
+
+.qodef-image-with-text {
+
+	&.qodef-layout--text-on-hover {
+
+		.qodef-m-image {
+			box-shadow: none;
+			overflow: hidden;
+
+			img {
+				transform: translateX(0);
+				transition: transform 0s;
+			}
+		}
+
+		.qodef-m-content {
+			@include qodefAbsoluteLayout();
+			display: flex;
+			justify-content: space-between;
+			flex-direction: column;
+			padding: 54px 60px;
+			background-color: #fff;
+			opacity: 0;
+			transition: opacity .3s ease;
+
+			@include qodefScreenSize1440 {
+				padding: 40px 40px;
+			}
+
+			@include qodefScreenSize480 {
+				padding: 40px 34px;
+			}
+
+			svg {
+				width: 72px;
+				height: auto;
+				fill: none;
+				stroke: none;
+				color: $heading-color;
+
+				* {
+					fill: none;
+					stroke: currentColor;
+				}
+			}
+		}
+
+		.qodef-m-content-inner,
+		.qodef-m-content-inner-2 {
+			opacity: 0;
+			transform: translateX(-20px);
+			transition: .4s ease;
+			will-change: transformsw;
+		}
+
+		.qodef-m-title {
+			margin: 0;
+		}
+
+		.qodef-m-overlay-link {
+			@include qodefAbsoluteLayout();
+		}
+
+		&:hover {
+
+			.qodef-m-image {
+
+				img {
+					transform: translateX(5%);
+					transition: transform .45s cubic-bezier(.645, .045, .355, 1);
+				}
+			}
+
+			.qodef-m-content {
+				opacity: 1;
+				transition: opacity .3s ease;
+			}
+
+			.qodef-m-content-inner,
+			.qodef-m-content-inner-2 {
+				opacity: 1;
+				transform: translateX(0);
+				transition: .4s ease .15s;
+			}
+
+			.qodef-m-content-inner-2 {
+				transition-delay: .3s;
+			}
+		}
+
+		&.qodef-image-shadow--enabled {
+
+			.qodef-m-image {
+				box-shadow: $box-shadow-2;
+			}
+		}
+
+		&.qodef-image-border--enabled {
+
+			.qodef-m-image {
+				border: 1px solid $border-color;
+			}
+		}
+
+		&.qodef-image-radius--enabled {
+
+			.qodef-m-image {
+				overflow: hidden;
+				border-radius: 6px;
+			}
+
+			.qodef-m-content {
+				border-radius: 5px;
+			}
+		}
+	}
+}

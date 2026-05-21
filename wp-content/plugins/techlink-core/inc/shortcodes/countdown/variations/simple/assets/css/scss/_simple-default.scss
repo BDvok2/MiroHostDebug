@@ -1,0 +1,29 @@
+.qodef-countdown.qodef-layout--simple {
+
+	.qodef-digit-wrapper {
+		display: inline-block;
+		vertical-align: top;
+		padding: 0 20px;
+	}
+
+	.qodef-digit {
+		font-family: $heading-font;
+		font-weight: 700;
+		font-size: 140px;
+		line-height: .8;
+		text-transform: uppercase;
+		color: #ebeced;
+
+		@include qodefScreenSize680 {
+			font-size: 120px;
+		}
+
+		@include qodefScreenSize480 {
+			font-size: 70px;
+		}
+	}
+
+	.qodef-label {
+		@include qodefHeadingStyle(h5);
+	}
+}

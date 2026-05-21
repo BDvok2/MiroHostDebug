@@ -1,0 +1,22 @@
+1.2
+- Added WordPress 6.0 compatibility
+- Added WooCommerce 6.5.1 compatibility
+- Added PHP 8 compatibility
+- Updated Revolution Slider plugin to 6.5.24
+- Updated Qode Framework plugin to 1.1.8
+- Updated Techlink Core plugin to 1.1
+- Fixed custom class excluding for shortcodes
+- Improved theme registration to block Shortcodes and CPT loading if the theme is not registered
+- Improved theme registration - code already used case
+- Theme Validation Rest Endpoint
+- Changed demo import icon image
+
+1.1
+- Added compatibility with Qi Addons for Elementor plugin
+- Added WordPress 5.7.1 compatibility
+- Added WooCommerce 5.2.2 compatibility
+- Updated Revolution Slider plugin to 6.4.11
+- Fixed contact form 7 reference bug when plugin is not installed
+
+1.0.1
+- Minor style improvements

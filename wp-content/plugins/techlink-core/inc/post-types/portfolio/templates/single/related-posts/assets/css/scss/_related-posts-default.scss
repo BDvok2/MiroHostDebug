@@ -1,0 +1,20 @@
+/* ==========================================================================
+   Related Portfolio Single Items styles
+   ========================================================================== */
+
+#qodef-portfolio-single-related-items {
+	@include qodefRelativeLayout();
+	margin-top: 128px;
+
+	.qodef-m-tagline {
+		font-family: $text-font;
+		font-size: 13px;
+		text-transform: uppercase;
+		letter-spacing: .05em;
+		color: $additional-text-color;
+	}
+
+	.qodef-m-title {
+		margin: 0 0 50px;
+	}
+}

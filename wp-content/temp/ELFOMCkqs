@@ -1,0 +1,1529 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Restbet Mobil Giriş 2026 | Güncel Resmi Adres & Güvenli Erişim</title>
+
+<!-- 2026 SEO Core Meta -->
+<meta name="description" content="Restbet mobil giriş 2026 güncel resmi adresi. Restbet'e hızlı, güvenli ve kesintisiz şekilde mobil cihazlarınızdan erişin. Yeni domain bilgileri ve SSL güvenlik detayları.">
+<meta name="keywords" content="restbet mobil giriş, restbet güncel adres 2026, restbet resmi giriş linki, restbet yeni adres, restbet mobil uyumlu giriş, restbet güvenli giriş">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="google-site-verification" content="JqhJRi7BmWPm3POOFi63Dnjlxp8xrlGxffHOCpTrhJI" />
+
+<meta name="author" content="Restbet">
+<meta name="theme-color" content="#d95a5f">
+<meta name="format-detection" content="telephone=no">
+<meta name="googlebot" content="index,follow">
+<meta name="bingbot" content="index,follow">
+
+<!-- Canonical & Hreflang (Tüm linkler istenen URL üzerinden) -->
+<link rel="canonical" href="https://krndsh.com/" />
+<link rel="alternate" hreflang="tr" href="https://rest.bet-adresi.vip/" />
+<link rel="alternate" hreflang="x-default" href="https://rest.bet-adresi.vip/" />
+
+<!-- Open Graph -->
+<meta property="og:title" content="Restbet Mobil Giriş 2026 | Güncel Resmi Adres">
+<meta property="og:description" content="Restbet resmi mobil giriş adresi 2026 ile hızlı, güvenli erişim sağlayın. Uygulama gerektirmeden mobil cihazlardan giriş yapın.">
+<meta property="og:url" content="https://rest.bet-adresi.vip/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:site_name" content="Restbet Mobil Giriş">
+<meta property="og:image" content="https://rest.bet-adresi.vip/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Restbet Mobil Giriş 2026 | Güncel Resmi Adres">
+<meta name="twitter:description" content="Restbet resmi mobil giriş adresi ile hızlı erişim.">
+<meta name="twitter:image" content="https://rest.bet-adresi.vip/og-image.png">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://rest.bet-adresi.vip/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="https://rest.bet-adresi.vip/favicon.svg" />
+<link rel="shortcut icon" href="https://rest.bet-adresi.vip/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://rest.bet-adresi.vip/apple-touch-icon.png" />
+<link rel="manifest" href="https://rest.bet-adresi.vip/site.webmanifest" />
+
+<!-- Preconnect for Performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+<!-- SEO STRUCTURED DATA: WebSite -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Restbet Mobil Giriş",
+  "alternateName": "Restbet Güncel Adres",
+  "url": "https://rest.bet-adresi.vip/",
+  "inLanguage": "tr",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://rest.bet-adresi.vip/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- SEO STRUCTURED DATA: Organization -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Restbet",
+  "url": "https://rest.bet-adresi.vip/",
+  "logo": "https://rest.bet-adresi.vip/logo.png",
+  "sameAs": [
+    "https://rest.bet-adresi.vip/"
+  ]
+}
+</script>
+
+<!-- SEO STRUCTURED DATA: FAQPage (tek kaynak — HTML microdata yok) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Restbet 2026 güncel mobil giriş adresi nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aktif domain adresi düzenli aralıklarla güncellenmektedir. Bu sayfadaki yönlendirme butonu her zaman en son aktif adrese bağlantı verir, böylece manuel adres arama ihtiyacı ortadan kalkar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Restbet mobil giriş için uygulama gerekir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Restbet responsive tasarıma sahip olduğu için Safari, Chrome veya Firefox gibi herhangi bir mobil tarayıcıdan doğrudan erişilebilir. APK veya App Store indirmeye gerek yoktur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Restbet mobil giriş güvenli mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. Tarayıcı adres çubuğundaki kilit simgesi, 256-bit SSL bağlantısının aktif olduğunu gösterir. Kişisel veriler ve finansal işlemler bu şifreleme katmanıyla korunur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Restbet adresi neden değişiyor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BTK tarafından uygulanan erişim engelleri sonucunda domain değişikliği zorunlu hale gelmektedir. Hesap bilgileri, bakiye ve kullanıcı verileri yeni adrese eksiksiz aktarılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Restbet'e tabletten giriş yapabilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. iPad ve Android tabletler dahil tüm ekran boyutlarına otomatik uyum sağlanır. Masaüstü sürümündeki tüm fonksiyonlar tablet arayüzünden de eksiksiz kullanılabilir."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- SEO STRUCTURED DATA: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Ana Sayfa",
+      "item": "https://rest.bet-adresi.vip/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Restbet Mobil Giriş 2026",
+      "item": "https://rest.bet-adresi.vip/"
+    }
+  ]
+}
+</script>
+
+<!-- SEO STRUCTURED DATA: HowTo -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Restbet Mobil Giriş Nasıl Yapılır?",
+  "description": "Restbet platformuna mobil cihazlardan güvenli şekilde giriş yapmak için izlemeniz gereken adımlar.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Güncel Adrese Erişin",
+      "text": "Bu sayfadaki güncel giriş butonuna tıklayarak aktif Restbet adresine yönlendirilirsiniz."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Mobil Tarayıcıda Açın",
+      "text": "Yönlendirme otomatik olarak mobil uyumlu sürümü açacaktır."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Giriş Bilgilerinizi Girin",
+      "text": "Kullanıcı adı ve şifreniz ile hesabınıza güvenli şekilde giriş yapın."
+    }
+  ]
+}
+</script>
+
+<style>
+
+:root {
+  --red: #d95a5f;
+  --red-dark: #b8454a;
+  --red-glow: rgba(217, 90, 95, 0.25);
+  --green: #58c987;
+  --green-dark: #42a96e;
+  --green-glow: rgba(88, 201, 135, 0.2);
+  --dark: #1a1a1e;
+  --dark-2: #222226;
+  --soft: #2a2a2f;
+  --soft-2: #323238;
+  --text: #c8c8cd;
+  --text-light: #94949a;
+  --white: #f0f0f2;
+  --glass: rgba(42, 42, 47, 0.65);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --radius: 14px;
+  --radius-sm: 8px;
+  --shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--dark);
+  color: var(--text);
+  line-height: 1.8;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: 
+    radial-gradient(ellipse at 20% 20%, var(--red-glow) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 80%, var(--green-glow) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 50%, rgba(30, 30, 40, 0.5) 0%, transparent 70%);
+  z-index: -1;
+  animation: bgShift 20s ease-in-out infinite alternate;
+}
+
+@keyframes bgShift {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  50% { transform: translate(-3%, -3%) rotate(1deg); }
+  100% { transform: translate(2%, 2%) rotate(-1deg); }
+}
+
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 16px;
+  background: var(--red);
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+  font-weight: 600;
+  z-index: 9999;
+  text-decoration: none;
+  transition: top 0.3s;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 20px;
+  background: rgba(26, 26, 30, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--glass-border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: -0.5px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.logo .rest { color: var(--red); }
+.logo .bet-badge {
+  background: var(--white);
+  color: var(--dark);
+  padding: 2px 8px;
+  border: 2px solid var(--green);
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.header-cta {
+  text-decoration: none;
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+  color: #000;
+  font-weight: 700;
+  font-size: 13px;
+  padding: 10px 22px;
+  border-radius: 30px;
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  box-shadow: 0 4px 15px var(--green-glow);
+  position: relative;
+  overflow: hidden;
+}
+
+.header-cta::after {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 100%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.5s;
+}
+
+.header-cta:hover::after,
+.header-cta:focus::after {
+  left: 100%;
+}
+
+.header-cta:hover,
+.header-cta:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 25px rgba(88, 201, 135, 0.4);
+}
+
+.breadcrumb {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 16px 24px 0;
+  font-size: 13px;
+  color: var(--text-light);
+}
+
+.breadcrumb a {
+  color: var(--text-light);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.breadcrumb a:hover,
+.breadcrumb a:focus {
+  color: var(--green);
+}
+
+.breadcrumb .sep {
+  margin: 0 8px;
+  opacity: 0.4;
+}
+
+.breadcrumb .current {
+  color: var(--red);
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 24px 60px;
+  max-width: 820px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--glass);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--glass-border);
+  padding: 8px 20px;
+  border-radius: 30px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--green);
+  margin-bottom: 24px;
+  animation: fadeInDown 0.8s ease-out;
+}
+
+.hero-badge .dot {
+  width: 8px;
+  height: 8px;
+  background: var(--green);
+  border-radius: 50%;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+
+.hero h1 {
+  font-size: 2.4rem;
+  font-weight: 900;
+  color: var(--white);
+  margin-bottom: 20px;
+  letter-spacing: -1px;
+  line-height: 1.2;
+  animation: fadeInUp 0.8s ease-out 0.1s both;
+}
+
+.hero h1 .highlight {
+  color: var(--red);
+  position: relative;
+}
+
+.hero h1 .highlight::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: var(--red);
+  opacity: 0.3;
+  border-radius: 2px;
+}
+
+.hero .desc {
+  max-width: 640px;
+  margin: 0 auto 36px;
+  color: var(--text);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  animation: fadeInUp 0.8s ease-out 0.2s both;
+}
+
+.hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  background: linear-gradient(135deg, var(--red), var(--red-dark));
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 16px 40px;
+  border-radius: 50px;
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  box-shadow: 0 8px 30px var(--red-glow);
+  animation: fadeInUp 0.8s ease-out 0.3s both;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-cta::before {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 100%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+  transition: left 0.6s;
+}
+
+.hero-cta:hover::before,
+.hero-cta:focus::before {
+  left: 100%;
+}
+
+.hero-cta:hover,
+.hero-cta:focus {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 12px 40px rgba(217, 90, 95, 0.45);
+}
+
+.hero-cta svg {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.3s;
+}
+
+.hero-cta:hover svg {
+  transform: translateX(3px);
+}
+
+.hero-trust {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  margin-top: 40px;
+  animation: fadeInUp 0.8s ease-out 0.4s both;
+}
+
+.trust-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text-light);
+}
+
+.trust-item svg {
+  width: 18px;
+  height: 18px;
+  color: var(--green);
+  flex-shrink: 0;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.main-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.article-card {
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  padding: 36px 32px;
+  margin-bottom: 28px;
+  transition: border-color 0.3s, transform 0.3s;
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.article-card.visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out, border-color 0.3s;
+}
+
+.article-card:hover {
+  border-color: rgba(255,255,255,0.1);
+}
+
+.article-card h2 {
+  color: var(--white);
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+  letter-spacing: -0.3px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.article-card h2 .h2-icon {
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, var(--red), var(--red-dark));
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.article-card h2 .h2-icon svg {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+}
+
+.article-card h2 .h2-icon.green {
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+}
+
+.article-card h3 {
+  margin-top: 22px;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.article-card h3::before {
+  content: '';
+  width: 4px;
+  height: 18px;
+  background: var(--green);
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.article-card p {
+  color: var(--text);
+  margin-bottom: 14px;
+  font-size: 0.98rem;
+}
+
+.article-card p:last-child {
+  margin-bottom: 0;
+}
+
+.highlight-box {
+  background: linear-gradient(135deg, rgba(88, 201, 135, 0.08), rgba(88, 201, 135, 0.02));
+  border: 1px solid rgba(88, 201, 135, 0.15);
+  border-radius: var(--radius);
+  padding: 28px 28px;
+  margin-top: 20px;
+}
+
+.highlight-box.warning {
+  background: linear-gradient(135deg, rgba(217, 90, 95, 0.08), rgba(217, 90, 95, 0.02));
+  border-color: rgba(217, 90, 95, 0.15);
+}
+
+.highlight-box h2 .h2-icon {
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+}
+
+.highlight-box.warning h2 .h2-icon {
+  background: linear-gradient(135deg, var(--red), var(--red-dark));
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.stat-card {
+  background: var(--soft);
+  border-radius: var(--radius-sm);
+  padding: 24px 16px;
+  text-align: center;
+  border: 1px solid var(--glass-border);
+  transition: transform 0.3s, border-color 0.3s;
+}
+
+.stat-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(255,255,255,0.1);
+}
+
+.stat-number {
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--green);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.stat-card:nth-child(2) .stat-number { color: var(--red); }
+
+.stat-label {
+  font-size: 12px;
+  color: var(--text-light);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.steps-list {
+  list-style: none;
+  counter-reset: step;
+  margin-top: 18px;
+}
+
+.steps-list li {
+  counter-increment: step;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--glass-border);
+  font-size: 0.98rem;
+  color: var(--text);
+}
+
+.steps-list li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.steps-list li::before {
+  content: counter(step);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  height: 32px;
+  background: var(--red);
+  color: #fff;
+  font-weight: 800;
+  font-size: 14px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.faq-section {
+  margin-top: 16px;
+}
+
+.faq-item {
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.faq-question {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  background: none;
+  border: none;
+  color: var(--white);
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  text-align: left;
+  gap: 16px;
+  transition: color 0.2s;
+}
+
+.faq-question:hover,
+.faq-question:focus {
+  color: var(--red);
+  outline: none;
+}
+
+.faq-question svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  transition: transform 0.3s;
+  color: var(--text-light);
+}
+
+.faq-item.active .faq-question svg {
+  transform: rotate(180deg);
+  color: var(--red);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.3s ease;
+}
+
+.faq-item.active .faq-answer {
+  max-height: 300px;
+  padding-bottom: 20px;
+}
+
+.faq-answer p {
+  color: var(--text);
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.internal-links {
+  background: var(--soft);
+  border-radius: var(--radius-sm);
+  padding: 24px;
+  margin-top: 20px;
+  border: 1px solid var(--glass-border);
+}
+
+.internal-links h3 {
+  color: var(--white);
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.internal-links ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.internal-links ul li a {
+  display: inline-block;
+  padding: 8px 18px;
+  background: var(--dark-2);
+  border: 1px solid var(--glass-border);
+  border-radius: 30px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.internal-links ul li a:hover,
+.internal-links ul li a:focus {
+  background: var(--red);
+  color: #fff;
+  border-color: var(--red);
+  transform: translateY(-1px);
+}
+
+.cta-banner {
+  background: linear-gradient(135deg, var(--red-dark), var(--red));
+  border-radius: var(--radius);
+  padding: 48px 32px;
+  text-align: center;
+  margin-top: 40px;
+  position: relative;
+  overflow: hidden;
+}
+
+.cta-banner::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -30%;
+  width: 300px;
+  height: 300px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 50%;
+}
+
+.cta-banner h2 {
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 900;
+  margin-bottom: 12px;
+  position: relative;
+  z-index: 1;
+}
+
+.cta-banner p {
+  color: rgba(255,255,255,0.85);
+  margin-bottom: 28px;
+  font-size: 0.98rem;
+  position: relative;
+  z-index: 1;
+}
+
+.cta-banner .cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  background: #fff;
+  color: var(--red-dark);
+  font-weight: 800;
+  font-size: 15px;
+  padding: 14px 36px;
+  border-radius: 50px;
+  transition: all 0.3s;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+}
+
+.cta-banner .cta-btn:hover,
+.cta-banner .cta-btn:focus {
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.3);
+}
+
+.cta-banner .cta-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+footer {
+  background: var(--dark-2);
+  border-top: 1px solid var(--glass-border);
+  padding: 40px 24px 24px;
+}
+
+.footer-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid var(--glass-border);
+  margin-bottom: 24px;
+}
+
+.footer-col h4 {
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.footer-col ul {
+  list-style: none;
+}
+
+.footer-col ul li {
+  margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+  color: var(--text-light);
+  text-decoration: none;
+  font-size: 13px;
+  transition: color 0.2s;
+}
+
+.footer-col ul li a:hover,
+.footer-col ul li a:focus {
+  color: var(--green);
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.footer-bottom p {
+  color: var(--text-light);
+  font-size: 12px;
+}
+
+.footer-bottom .age-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--soft);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--red);
+  border: 1px solid rgba(217, 90, 95, 0.2);
+}
+
+.float-cta {
+  position: fixed;
+  right: 20px;
+  bottom: 24px;
+  background: linear-gradient(135deg, var(--red), var(--red-dark));
+  color: #fff;
+  padding: 14px 28px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  box-shadow: 0 8px 30px var(--red-glow);
+  z-index: 900;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s;
+  animation: floatBounce 3s ease-in-out infinite;
+}
+
+.float-cta:hover,
+.float-cta:focus {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 12px 40px rgba(217, 90, 95, 0.5);
+  animation: none;
+}
+
+.float-cta svg {
+  width: 18px;
+  height: 18px;
+}
+
+@keyframes floatBounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@media (max-width: 768px) {
+  header {
+    padding: 12px 16px;
+  }
+
+  .logo {
+    font-size: 20px;
+  }
+
+  .logo .bet-badge {
+    font-size: 15px;
+    padding: 2px 6px;
+  }
+
+  .header-cta {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+
+  .breadcrumb {
+    padding: 12px 16px 0;
+    font-size: 12px;
+  }
+
+  .hero {
+    padding: 60px 20px 40px;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem;
+    letter-spacing: -0.5px;
+  }
+
+  .hero .desc {
+    font-size: 0.95rem;
+  }
+
+  .hero-cta {
+    font-size: 14px;
+    padding: 14px 32px;
+  }
+
+  .hero-trust {
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    margin-top: 32px;
+  }
+
+  .main-container {
+    padding: 24px 16px 100px;
+  }
+
+  .article-card {
+    padding: 24px 20px;
+  }
+
+  .article-card h2 {
+    font-size: 1.25rem;
+  }
+
+  .article-card h2 .h2-icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .article-card h2 .h2-icon svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .stats-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+
+  .stat-card {
+    padding: 18px 10px;
+  }
+
+  .stat-number {
+    font-size: 1.4rem;
+  }
+
+  .stat-label {
+    font-size: 10px;
+  }
+
+  .cta-banner {
+    padding: 36px 20px;
+  }
+
+  .cta-banner h2 {
+    font-size: 1.3rem;
+  }
+
+  .footer-top {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .float-cta {
+    right: 16px;
+    bottom: 16px;
+    padding: 12px 22px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero h1 {
+    font-size: 1.55rem;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stat-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding: 16px 20px;
+  }
+
+  .stat-number {
+    font-size: 1.6rem;
+    margin-bottom: 0;
+    margin-right: 12px;
+  }
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+::selection {
+  background: var(--red);
+  color: #fff;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<a href="#main-content" class="skip-link">İçeriğe Geç</a>
+
+<header role="banner">
+  <a href="https://rest.bet-adresi.vip/" class="logo" aria-label="Restbet Ana Sayfa">
+    <span class="rest">rest</span><span class="bet-badge">bet</span>
+  </a>
+  <a href="https://rest.bet-adresi.vip/" class="header-cta" rel="noopener noreferrer" aria-label="Restbet güncel giriş adresine git">Güncel Giriş</a>
+</header>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="https://rest.bet-adresi.vip/">Ana Sayfa</a>
+  <span class="sep" aria-hidden="true">›</span>
+  <span class="current" aria-current="page">Restbet Mobil Giriş 2026</span>
+</nav>
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-badge">
+    <span class="dot" aria-hidden="true"></span>
+    Güncel Adres Aktif
+  </div>
+
+  <h1 id="hero-title">
+    Restbet <span class="highlight">Mobil Güncel</span> Giriş Adresi 2026
+  </h1>
+
+  <p class="desc">
+    Tarayıcınızdan doğrudan Restbet platformuna bağlanın. Ekstra yazılım kurulumu olmadan, akıllı telefonunuzdan tüm hizmetlere anında erişin.
+  </p>
+
+  <a href="https://rest.bet-adresi.vip/" class="hero-cta" rel="noopener noreferrer" aria-label="Restbet mobil giriş yap">
+    Hemen Giriş Yap
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+  </a>
+
+  <div class="hero-trust" aria-label="Güvenlik özellikleri">
+    <span class="trust-item">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
+      SSL Şifreleme
+    </span>
+    <span class="trust-item">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+      Güvenli Giriş
+    </span>
+    <span class="trust-item">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></svg>
+      Mobil Uyumlu
+    </span>
+  </div>
+</section>
+
+<main id="main-content" class="main-container" role="main">
+
+  <article class="article-card" itemscope itemtype="https://schema.org/Article">
+    <h2 itemprop="headline">
+      <span class="h2-icon" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+      </span>
+      Restbet 2026 Güncel Adres Bilgilendirmesi
+    </h2>
+
+    <div itemprop="articleBody">
+      <p>
+        Restbet platformu, zaman zaman erişim engelleri nedeniyle yeni domain adreslerine geçiş yapabilmektedir. 2026 yılı itibarıyla kullanıcıların en güncel giriş bağlantısını düzenli olarak takip etmeleri, kesintisiz ve güvenli erişim açısından büyük önem taşımaktadır.
+      </p>
+      <p>
+        Bu sayfa üzerinde paylaşılan bağlantı, doğrudan aktif Restbet giriş adresine yönlendirme yapmaktadır. Kullanıcılar herhangi bir aracı sitenin olmadan, en kısa yoldan platforma hızlı şekilde ulaşabilirler. Güncel adres değişiklikleri anında bu sayfaya yansıtılır.
+      </p>
+    </div>
+
+    <div class="stats-grid" aria-label="Restbet platform istatistikleri">
+      <div class="stat-card">
+        <div class="stat-number">7/24</div>
+        <div class="stat-label">Kesintisiz Erişim</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">SSL</div>
+        <div class="stat-label">Güvenlik Sertifikası</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">%100</div>
+        <div class="stat-label">Mobil Uyum</div>
+      </div>
+    </div>
+
+    <meta itemprop="datePublished" content="2026-01-01">
+    <meta itemprop="author" content="Restbet">
+  </article>
+
+  <article class="article-card" itemscope itemtype="https://schema.org/Article">
+    <h2 itemprop="headline">
+      <span class="h2-icon green" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="3" rx="2"/><line x1="8" x2="16" y1="21" y2="21"/><line x1="12" x2="12" y1="17" y2="21"/></svg>
+      </span>
+      Restbet Mobil Giriş Avantajları
+    </h2>
+
+    <div itemprop="articleBody">
+      <h3>Hızlı Mobil Erişim</h3>
+      <p>
+        Restbet mobil uyumlu altyapısı sayesinde herhangi bir performans kaybı yaşamadan telefon veya tablet üzerinden platforma kesintisiz şekilde erişebilirsiniz. Sayfa yükleme süreleri mobil cihazlar için özel olarak optimize edilmiştir.
+      </p>
+
+      <h3>Uygulama Gerektirmez</h3>
+      <p>
+        Android ve iOS işletim sistemlerine sahip cihazlarda herhangi bir uygulama indirme veya kurulum işlemi yapmadan doğrudan mobil tarayıcı üzerinden giriş yapılabilir. Bu sayede cihaz hafızası tasarruf edilir ve güvenlik riskleri en aza indirilir.
+      </p>
+
+      <h3>Kesintisiz Bağlantı Altyapısı</h3>
+      <p>
+        Güncel domain kullanımı ve çoklu sunucu altyapısı sayesinde kullanıcılar siteye erişim problemi yaşamadan tüm platform hizmetlerinden sorunsuz şekilde faydalanabilir. Yedek bağlantı noktaları sayesinde kesinti süreleri minimuma indirilir.
+      </p>
+
+      <h3>Dokunmatik Ekran Optimizasyonu</h3>
+      <p>
+        Tüm butonlar, menüler ve etkileşimli alanlar dokunmatik ekran kullanımına özel olarak tasarlanmıştır. Büyütme, kaydırma ve tıklama işlemleri ergonomik ve kullanıcı dostu bir deneyim sunar.
+      </p>
+    </div>
+
+    <meta itemprop="datePublished" content="2026-01-01">
+    <meta itemprop="author" content="Restbet">
+  </article>
+
+  <article class="article-card" itemscope itemtype="https://schema.org/Article">
+    <h2 itemprop="headline">
+      <span class="h2-icon" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/><line x1="16" x2="8" y1="13" y2="13"/><line x1="16" x2="8" y1="17" y2="17"/><line x1="10" x2="8" y1="9" y2="9"/></svg>
+      </span>
+      Restbet Mobil Giriş Nasıl Yapılır?
+    </h2>
+
+    <div itemprop="articleBody">
+      <p>
+        Restbet mobil giriş işlemi sadece birkaç basit adımla tamamlanabilir. Aşağıdaki adımları sırasıyla izleyerek platforma güvenli şekilde ulaşabilirsiniz:
+      </p>
+
+      <ol class="steps-list">
+        <li>Bu sayfa üzerindeki <strong>"Hemen Giriş Yap"</strong> butonuna tıklayarak güncel Restbet adresine yönlendirilirsiniz.</li>
+        <li>Açılan sayfa otomatik olarak mobil uyumlu sürümü yükleyecektir; herhangi bir ek işlem yapmanıza gerek yoktur.</li>
+        <li>Güvenli bağlantı ikonunu (kilit simgesi) kontrol ederek SSL şifrelemesinin aktif olduğunu doğrulayın.</li>
+        <li>Kullanıcı adı ve şifrenizi girerek hesabınıza giriş yapın ve platform hizmetlerine erişmeye başlayın.</li>
+      </ol>
+    </div>
+
+    <meta itemprop="datePublished" content="2026-01-01">
+    <meta itemprop="author" content="Restbet">
+  </article>
+
+  <article class="article-card highlight-box" itemscope itemtype="https://schema.org/Article">
+    <h2 itemprop="headline">
+      <span class="h2-icon green" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
+      </span>
+      Restbet SSL Güvenlik Altyapısı
+    </h2>
+
+    <div itemprop="articleBody">
+      <p>
+        Restbet, kullanıcı güvenliğini en üst düzeyde korumak amacıyla gelişmiş 256-bit SSL şifreleme altyapısı kullanmaktadır. Bu teknoloji sayesinde hesap işlemleri, finansal işlemler ve kişisel kullanıcı verileri üçüncü tarafların erişimine karşı tamamen korunmaktadır.
+      </p>
+      <p>
+        Resmi giriş adresini kullanarak platforma bağlandığınızda, tarayıcı adres çubuğundaki kilit simgesi ile güvenli bağlantıyı doğrulayabilirsiniz. Sahte veya kopya sitelerden uzak durarak yalnızca bu sayfa üzerindeki resmi bağlantıları kullanmanız önerilir.
+      </p>
+    </div>
+
+    <meta itemprop="datePublished" content="2026-01-01">
+    <meta itemprop="author" content="Restbet">
+  </article>
+
+  <article class="article-card highlight-box warning" itemscope itemtype="https://schema.org/Article">
+    <h2 itemprop="headline">
+      <span class="h2-icon" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg>
+      </span>
+      Sahte Siteler ve Dolandırıcılık Uyarısı
+    </h2>
+
+    <div itemprop="articleBody">
+      <p>
+        Restbet adını kullanan sahte ve kopya sitelerden kesinlikle uzak durunuz. Bu siteler kullanıcı verilerinizi çalmak amacıyla tasarlanmış olabilir. Yalnızca bu sayfa üzerinde paylaşılan resmi bağlantıları kullanarak güvende kalabilirsiniz.
+      </p>
+      <p>
+        Resmi Restbet adresi asla kullanıcıdan şifre değişikliği talep eden e-postalar veya mesajlar göndermez. Şüpheli durumları derhal platform destek birimine bildiriniz.
+      </p>
+    </div>
+
+    <meta itemprop="datePublished" content="2026-01-01">
+    <meta itemprop="author" content="Restbet">
+  </article>
+
+  <!-- SSS — sadece semantic HTML, microdata yok (structured data LD+JSON'da) -->
+  <section class="article-card faq-section" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">
+      <span class="h2-icon green" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
+      </span>
+      Sıkça Sorulan Sorular
+    </h2>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false" aria-controls="faq-1">
+        <span>Restbet 2026 güncel mobil giriş adresi nedir?</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </button>
+      <div class="faq-answer" id="faq-1">
+        <p>Aktif domain adresi düzenli aralıklarla güncellenmektedir. Bu sayfadaki yönlendirme butonu her zaman en son aktif adrese bağlantı verir, böylece manuel adres arama ihtiyacı ortadan kalkar.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false" aria-controls="faq-2">
+        <span>Restbet mobil giriş için uygulama gerekir mi?</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </button>
+      <div class="faq-answer" id="faq-2">
+        <p>Hayır. Restbet responsive tasarıma sahip olduğu için Safari, Chrome veya Firefox gibi herhangi bir mobil tarayıcıdan doğrudan erişilebilir. APK veya App Store indirmeye gerek yoktur.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false" aria-controls="faq-3">
+        <span>Restbet mobil giriş güvenli mi?</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </button>
+      <div class="faq-answer" id="faq-3">
+        <p>Evet. Tarayıcı adres çubuğundaki kilit simgesi, 256-bit SSL bağlantısının aktif olduğunu gösterir. Kişisel veriler ve finansal işlemler bu şifreleme katmanıyla korunur.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false" aria-controls="faq-4">
+        <span>Restbet adresi neden değişiyor?</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </button>
+      <div class="faq-answer" id="faq-4">
+        <p>BTK tarafından uygulanan erişim engelleri sonucunda domain değişikliği zorunlu hale gelmektedir. Hesap bilgileri, bakiye ve kullanıcı verileri yeni adrese eksiksiz aktarılır.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false" aria-controls="faq-5">
+        <span>Restbet'e tabletten giriş yapabilir miyim?</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </button>
+      <div class="faq-answer" id="faq-5">
+        <p>Evet. iPad ve Android tabletler dahil tüm ekran boyutlarına otomatik uyum sağlanır. Masaüstü sürümündeki tüm fonksiyonlar tablet arayüzünden de eksiksiz kullanılabilir.</p>
+      </div>
+    </div>
+  </section>
+
+  <nav class="internal-links" aria-label="İlgili sayfalar">
+    <h3>İlgili Sayfalar</h3>
+    <ul>
+      <li><a href="https://rest.bet-adresi.vip/">Restbet Ana Sayfa</a></li>
+      <li><a href="https://rest.bet-adresi.vip/">Restbet Güncel Giriş</a></li>
+      <li><a href="https://rest.bet-adresi.vip/">Restbet Yeni Adres</a></li>
+      <li><a href="https://rest.bet-adresi.vip/">Restbet SSL Bilgileri</a></li>
+      <li><a href="https://rest.bet-adresi.vip/">Restbet Güvenlik Rehberi</a></li>
+    </ul>
+  </nav>
+
+  <div class="cta-banner" role="complementary" aria-label="Giriş çağrısı">
+    <h2>Restbet Güncel Adrese Hemen Eriş</h2>
+    <p>Yeni domain üzerinden kesintisiz ve güvenli şekilde platforma giriş yapın.</p>
+    <a href="https://rest.bet-adresi.vip/" class="cta-btn" rel="noopener noreferrer" aria-label="Restbet güncel adrese giriş yap">
+      Güncel Adrese Git
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+    </a>
+  </div>
+
+</main>
+
+<footer role="contentinfo">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-col">
+        <h4>Hızlı Erişim</h4>
+        <ul>
+          <li><a href="https://rest.bet-adresi.vip/">Restbet Mobil Giriş</a></li>
+          <li><a href="https://rest.bet-adresi.vip/">Restbet Güncel Adres</a></li>
+          <li><a href="https://rest.bet-adresi.vip/">Restbet Yeni Giriş</a></li>
+          <li><a href="https://rest.bet-adresi.vip/">Restbet Resmi Site</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Bilgi</h4>
+        <ul>
+          <li><a href="https://rest.bet-adresi.vip/">Güvenlik Politikası</a></li>
+          <li><a href="https://rest.bet-adresi.vip/">Mobil Uyumluluk</a></li>
+          <li><a href="https://rest.bet-adresi.vip/">SSL Sertifika Bilgisi</a></li>
+          <li><a href="https://rest.bet-adresi.vip/">İletişim</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 Restbet Mobil Giriş | Tüm hakları saklıdır. | Bu sayfa yalnızca bilgilendirme amaçlıdır.</p>
+      <span class="age-badge">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        18+
+      </span>
+    </div>
+  </div>
+</footer>
+
+<a href="https://rest.bet-adresi.vip/" class="float-cta" rel="noopener noreferrer" aria-label="Restbet giriş yap">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" x2="3" y1="12" y2="12"/></svg>
+  Giriş Yap
+</a>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var cards = document.querySelectorAll('.article-card');
+
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.1,
+    rootMargin: '0px 0px -40px 0px'
+  });
+
+  cards.forEach(function(card) {
+    observer.observe(card);
+  });
+
+  var faqItems = document.querySelectorAll('.faq-item');
+
+  faqItems.forEach(function(item) {
+    var btn = item.querySelector('.faq-question');
+
+    btn.addEventListener('click', function() {
+      var isActive = item.classList.contains('active');
+
+      faqItems.forEach(function(other) {
+        other.classList.remove('active');
+        other.querySelector('.faq-question').setAttribute('aria-expanded', 'false');
+      });
+
+      if (!isActive) {
+        item.classList.add('active');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+
+    btn.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        btn.click();
+      }
+    });
+  });
+
+  document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+    anchor.addEventListener('click', function(e) {
+      var target = document.querySelector(this.getAttribute('href'));
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        target.focus({ preventScroll: true });
+      }
+    });
+  });
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+/*
+Theme Name: TechLink Child
+Theme URI: https://techlink.qodeinteractive.com
+Description: A child theme of TechLink
+Author: Mikado Themes
+Author URI: https://qodeinteractive.com
+Version: 1.0.0
+Text Domain: techlink
+Template: techlink
+*/
+
+
+.qodef-banner div.qodef-m-title,
+.qodef-banner div.qodef-m-subtitle,
+.qodef-portfolio-list .qodef-e-info-category,
+.qodef-section-title .qodef-m-subtitle,
+.qodef-team-list .qodef-team-member-social-icons, 
+.qodef-h4, h4, h1, h2, h3, h5, h6, 
+.qodef-fullscreen-menu>ul>li>a,
+.qodef-portfolio-parallax .qodef-e-title {
+	font-family: 'ITC Franklin Gothic Std' ,sans-serif !important;
+}
+
+body, p, .qodef-button.qodef-html--link, .qodef-m-text, .qodef-team-list .qodef-e-role, .qodef-portfolio-parallax .qodef-e-info-category  {
+	font-family: 'ITC Franklin Gothic Book' ,sans-serif !important;
+}
+
+.qodef-portfolio-list .qodef-e-info-category,
+.qodef-section-title .qodef-m-subtitle, {
+	font-size: 16px;
+}
+
+.custom-bg .qodef-item-layout--info-on-hover.qodef-hover-animation--fade-in .qodef-e-image .qodef-e-media-image {
+	position: relative;
+}
+
+.qodef-portfolio-list.qodef-grid.qodef-layout--masonry.qodef-items--fixed .qodef-grid-item img {
+	object-fit: cover;
+}
+
+/*.custom-bg .qodef-item-layout--info-on-hover.qodef-hover-animation--fade-in .qodef-e-image .qodef-e-media-image:before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-image: linear-gradient(90deg, #1D3A8F 0%, #C81730 100%);
+	content: '';
+	z-index: 1;
+    opacity: 0.5;
+}*/
+
+.single-portfolio-item .qodef-grid.qodef-layout--template>.qodef-grid-inner>.qodef-grid-item.qodef-col--9,
+.single-portfolio-item .qodef-grid.qodef-layout--template>.qodef-grid-inner>.qodef-grid-item.qodef-col--3 {
+	width: 100% !important;
+}
+
+.elementor-page.qodef-content-grid-1300 #qodef-page-outer .qodef-content-grid {
+	max-width: 100%;
+	width: 100% !important;
+}

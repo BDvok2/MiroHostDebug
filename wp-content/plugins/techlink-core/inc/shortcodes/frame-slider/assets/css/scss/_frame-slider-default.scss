@@ -1,0 +1,66 @@
+/* ==========================================================================
+   Frame Slider shortcode style - begin
+   ========================================================================== */
+$bottom-distance: 3%;
+
+.qodef-frame-slider-holder {
+    position: relative;
+    padding-bottom: $bottom-distance;
+
+    .qodef-frame-slider-image {
+        position: absolute;
+        top: 0;
+        left: calc(50% - 1px);
+        transform: translateX(-50%);
+        pointer-events: none;
+        z-index: 100;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .qodef-m-swiper {
+        overflow: hidden;
+    }
+
+    .qodef-m-item {
+        width: 698px;
+        margin: 0 0;
+        transform: scale(.72);
+        transition: transform .8s ease .2s;
+
+        img {
+            margin-top: 21px;
+        }
+
+        &.swiper-slide-prev {
+            transform: scale(.72) translateX(151px);
+            transition: transform .6s ease .2s;
+        }
+
+        &.swiper-slide-next {
+            transform: scale(.72) translateX(-151px);
+            transition: transform .6s ease .2s;
+        }
+
+        &.swiper-slide-duplicate-prev,
+        &.swiper-slide-duplicate-next {
+            transition: transform .6s ease .2s;
+        }
+
+        &.swiper-slide-active,
+        &.swiper-slide-duplicate-active {
+            transform: scale(1);
+            transition: transform .8s ease;
+        }
+    }
+
+    .swiper-pagination-bullets {
+        display: none;
+    }
+}
+
+/* ==========================================================================
+   Frame Slider shortcode style - end
+   ========================================================================== */

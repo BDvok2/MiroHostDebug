@@ -1,0 +1,69 @@
+/* ==========================================================================
+   Author Info styles
+   ========================================================================== */
+
+#qodef-author-info {
+	@include qodefRelativeLayout();
+	background-color: $additional-color;
+	padding: 40px 40px 33px;
+	margin-top: 9px;
+	
+	.qodef-m-inner {
+		position: relative;
+		display: flex;
+		align-items: flex-start;
+	}
+	
+	.qodef-m-image {
+		flex-shrink: 0;
+		margin-right: 29px;
+		
+		a, img {
+			display: block;
+			border-radius: 2px;
+		}
+	}
+	
+	.qodef-m-author {
+		margin: 0;
+		
+		.qodef-m-author-label {
+			display: block;
+			@include qodefMetaInfo();
+			padding-bottom: 4px;
+		}
+		
+		a {
+			@include qodefHeadingStyle(h4);
+		}
+	}
+	
+	.qodef-m-email {
+		margin: 5px 0 0;
+	}
+	
+	.qodef-m-description {
+		margin: 11px 0 0;
+	}
+	
+	.qodef-m-social-icons {
+		margin-top: 30px;
+		
+		a {
+			position: relative;
+			display: inline-block;
+			vertical-align: top;
+			color: $main-color;
+			margin-right: 50px;
+			font-size: 20px;
+			
+			&:last-child {
+				margin-right: 0;
+			}
+
+			&:hover {
+				color: $heading-color;
+			}
+		}
+	}
+}

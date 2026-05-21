@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Mobile Header styles
+   ========================================================================== */
+.qodef-mobile-header-navigation {
+	
+	ul {
+		
+		li {
+			
+			a {
+				
+				.qodef-menu-item-icon {
+					margin-right: 5px;
+				}
+			}
+		}
+	}
+	
+	.qodef-mega-menu-widget-holder {
+		display: none;
+	}
+}

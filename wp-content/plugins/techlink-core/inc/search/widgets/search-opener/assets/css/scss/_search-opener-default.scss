@@ -1,0 +1,32 @@
+/* ==========================================================================
+# Search opener - begin
+========================================================================== */
+
+.qodef-search-opener {
+    
+    > * {
+        position: relative;
+        display: inline-block;
+        vertical-align: middle;
+        line-height: inherit;
+    }
+    
+    &.qodef-source--icon-pack {
+        font-size: 23px;
+    }
+
+    &.qodef-source--svg-path {
+
+		span {
+
+			> *,
+			path {
+				stroke: none;
+			}
+		}
+	}
+}
+
+/* ==========================================================================
+# Search opener - end
+========================================================================== */

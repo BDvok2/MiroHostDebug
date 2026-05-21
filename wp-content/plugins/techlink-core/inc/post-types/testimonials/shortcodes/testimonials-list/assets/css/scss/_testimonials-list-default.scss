@@ -1,0 +1,95 @@
+/* ==========================================================================
+   Testimonials list shortcode styles
+   ========================================================================== */
+
+.qodef-testimonials-list {
+
+	&.qodef-swiper-container {
+		cursor: grab;
+
+		&.qodef-col-num--1 {
+			margin: 0 auto;
+			display: block;
+			max-width: 95%;
+		}
+
+		~.swiper-button-prev {
+			left: 80px !important;
+		}
+
+		~.swiper-button-next {
+			right: 80px !important;
+		}
+	}
+	
+	.qodef-e-inner {
+		padding: 20px 0;
+	}
+
+	.qodef-e-content {
+		padding: 0 5%;
+		text-align: center;
+	}
+
+	.qodef-e-quote-mark {
+		position: relative;
+		top: 13px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 95px;
+		fill: #ebeced;
+	}
+
+	.qodef-e-title {
+		margin: 0 0 41px;
+	}
+	
+	.qodef-e-text {
+		margin: 0;
+		font-family: $heading-font;
+		font-size: 36px;
+		font-weight: 700;
+		line-height: 46px;
+		text-transform: uppercase;
+		letter-spacing: .15em;
+		color: $heading-color;
+
+		@include qodefScreenSize680 {
+			font-size: 20px;
+			line-height: 30px;
+		}
+	}
+	
+	.qodef-e-author {
+		margin: 39px 0 0;
+		font-family: $text-font;
+		font-size: 13px;
+		font-weight: 400;
+		text-transform: uppercase;
+		letter-spacing: .1em;
+		color: $text-color;
+	}
+
+	&.qodef-swiper-container {
+		padding-top: 50px;
+		padding-bottom: 89px;
+
+		.swiper-button-prev {
+			left: 0 !important;
+		}
+
+		.swiper-button-next {
+			right: 0 !important;
+		}
+	}
+
+	@include qodefScreenSize1024 {
+
+		&.qodef-info-below-content-padding--disabled {
+
+			.qodef-e-content {
+				padding: 0 5% !important;
+			}
+		}
+	}
+}

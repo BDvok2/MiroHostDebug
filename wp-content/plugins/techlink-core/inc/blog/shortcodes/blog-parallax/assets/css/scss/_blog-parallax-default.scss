@@ -1,0 +1,88 @@
+/* ==========================================================================
+   Blog Parallax shortcode styles
+   ========================================================================== */
+
+.qodef-blog.qodef-blog-parallax {
+
+	.qodef-blog-item {
+		margin: 0;
+
+		.qodef-e-inner {
+			height: 550px;
+		}
+	}
+
+	.qodef-e-content {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 50%;
+		padding: 95px 149px 92px;
+
+		@include qodefScreenSize1440 {
+			width: 75%;
+		}
+
+		@include qodefScreenSize1024 {
+			width: 100%;
+			padding: 45px 49px 42px;
+		}
+	}
+
+	.qodef-e-info,
+	.qodef-e-title,
+	.qodef-e-excerpt {
+		color: #fff;
+
+		a {
+			color: #fff !important;
+		}
+	}
+
+	.qodef-e-info.qodef-info--top {
+		margin-bottom: 2px;
+	}
+
+	.qodef-e-title {
+		font-family: $heading-font;
+		font-size: 36px;
+		font-weight: 700;
+		line-height: 1;
+		text-transform: uppercase;
+		letter-spacing: .24em;
+
+		@include qodefScreenSize480 {
+			font-size: 24px;
+		}
+
+		@include qodefScreenSize320 {
+			font-size: 18px;
+		}
+	}
+
+	.qodef-e-excerpt {
+		margin: 11px 0 0;
+
+		@include qodefScreenSize480 {
+			display: none;
+		}
+	}
+
+	.qodef-e-image {
+		overflow: hidden;
+		height: 320px;
+	}
+
+	.qodef-e-media-image {
+		height: 150%;
+		overflow: hidden;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		transition: .8s cubic-bezier(0.37, 0.23, 0, 0.96);
+	}
+
+	.qodef-e-media-image img {
+		opacity: 0;
+	}
+}

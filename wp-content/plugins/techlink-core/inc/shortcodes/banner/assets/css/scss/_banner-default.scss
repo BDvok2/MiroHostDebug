@@ -1,0 +1,149 @@
+/* ==========================================================================
+   Banner shortcode styles
+   ========================================================================== */
+
+.qodef-banner {
+	@include qodefRelativeLayout();
+	
+	.qodef-m-banner-link {
+		@include qodefAbsoluteLayout();
+		display: block;
+		z-index: 1;
+	}
+	
+	.qodef-m-content {
+		@include qodefAbsoluteLayout();
+		display: block;
+	}
+	
+	.qodef-m-content-inner {
+		@include qodefAbsoluteLayout();
+		display: flex;
+		align-items: center;
+		padding: 7% 9%;
+	}
+
+	.qodef-m-content-inner-2 {
+		position: relative;
+	}
+
+	.qodef-m-title,
+	.qodef-m-subtitle,
+	.qodef-m-text-field {
+		position: relative;
+		color: $heading-color;
+		z-index: 1;
+	}
+
+	.qodef-m-title {
+		margin: 0;
+	}
+
+	div.qodef-m-title {
+		font-family: $heading-font;
+		font-size: 38px;
+		font-weight: 700;
+		line-height: 40px;
+		text-transform: uppercase;
+		letter-spacing: .15em;
+		color: $heading-color;
+	}
+	
+	.qodef-m-subtitle {
+		margin: 0 0 4px;
+	}
+
+	div.qodef-m-subtitle {
+		@include qodefMetaInfo($text-color);
+	}
+	
+	.qodef-m-text-field {
+		margin: 5px 0 0;
+	}
+	
+	.qodef-m-image {
+		@include qodefRelativeLayout();
+		overflow: hidden;
+		
+		img {
+			display: block;
+			transition: all .35s ease-out;
+		}
+	}
+
+	.qodef-m-background-text {
+		position: absolute;
+		top: 3px;
+		font-family: $heading-font;
+		font-size: 140px;
+		font-weight: 700;
+		line-height: .8;
+		text-transform: uppercase;
+		color: rgba(#ebeced, .75);
+		transform: translateY(-50%);
+	}
+
+	&.qodef-custom-layout--enabled {
+
+		.qodef-m-content-inner {
+
+			&:hover {
+
+				.qodef-m-title,
+				.qodef-m-subtitle,
+				.qodef-m-text-field {
+					color: #fff !important;
+					transition: $color-transition;
+				}
+
+				.qodef-m-background-text {
+					color: rgba(#fff, .25) !important;
+					transition: $color-transition;
+				}
+			}
+		}
+	}
+
+	&.qodef-title-break--disabled {
+
+		@include qodefScreenSize1024 {
+
+			.qodef-m-title {
+
+				br {
+					display: none;
+				}
+			}
+		}
+	}
+
+	&.qodef-disable-below--1024 {
+
+		@include qodefScreenSize1024 {
+
+			.qodef-m-background-text {
+				display: none;
+			}
+		}
+	}
+
+	&.qodef-disable-below--768 {
+
+		@include qodefScreenSize768 {
+
+			.qodef-m-background-text {
+				display: none;
+			}
+		}
+	}
+
+	&.qodef-disable-below--680 {
+
+		@include qodefScreenSize680 {
+
+			.qodef-m-background-text {
+				display: none;
+			}
+		}
+	}
+}

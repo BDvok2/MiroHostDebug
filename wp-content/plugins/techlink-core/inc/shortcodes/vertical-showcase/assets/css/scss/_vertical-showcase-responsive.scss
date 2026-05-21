@@ -1,0 +1,257 @@
+/* ==========================================================================
+   Vertical Showcase responsive style - begin
+   ========================================================================== */
+
+.qodef-vertical-showcase {
+
+	@media only screen and (max-width: 1900px) {
+
+		.qodef-m-frame-info {
+
+			.qodef-m-frame-info-top {
+				left: 10%;
+				margin-top: -12%;
+			}
+		}
+	}
+
+	@include qodefScreenSize1440 {
+
+		.qodef-m-frame-holder {
+			height: 71vh;
+		}
+
+		.qodef-m-frame-info {
+
+			.qodef-m-frame-info-bottom {
+	            margin-top: 8%;
+	            transform: translateX(-46%);
+	        }
+
+			.qodef-m-frame-info-other {
+				bottom: 6%;
+			}
+
+			&.qodef-m-frame-even {
+
+	            .qodef-m-frame-info-top {
+	                margin-top: 6%;
+	            }
+
+				.qodef-m-frame-info-bottom {
+	                margin-top: -10%;
+	            }
+	        }
+		}
+
+		.qodef-m-contact-form {
+	        padding: 60px 60px;
+
+	        .qodef-section-title {
+
+	            .qodef-m-content {
+	                padding: 0 7%;
+	            }
+	        }
+	    }
+	}
+
+	@include qodefScreenSize1366 {
+
+		.qodef-m-frame-holder {
+			height: 66vh;
+		}
+	}
+
+	@include qodefScreenSize1280 {
+
+		.qodef-m-frame-holder {
+			height: 71vh;
+		}
+
+		.qodef-m-frame-info {
+
+			.qodef-m-frame-info-top {
+				left: 7%;
+			}
+
+			.qodef-m-frame-info-bottom {
+	            transform: translateX(-50%);
+	        }
+		}
+
+		.qodef-m-contact-form {
+
+	        .qodef-section-title {
+
+	            .qodef-m-content {
+	                padding: 0 1%;
+	            }
+	        }
+	    }
+	}
+
+	@include qodefScreenSize1024 {
+
+		.qodef-m-frame-holder {
+	        height: 40vh;
+	    }
+
+		.qodef-m-frame-info {
+
+			.qodef-m-frame-info-top {
+				left: 50%;
+			    transform: translateX(-50%);
+			    margin-top: 0 !important;
+			    top: 13%;
+			}
+
+			.qodef-m-frame-info-bottom {
+	            margin-top: 0 !important;
+                bottom: 18%;
+
+				.qodef-m-frame-slide-number {
+					left: 50%;
+                    transform: translateX(-50%) translateY(-50%);
+				}
+
+				.qodef-m-frame-slide-info {
+					padding-left: 0;
+					text-align: center;
+
+					.qodef-m-frame-slide-decoration {
+						display: none;
+					}
+				}
+	        }
+
+			.qodef-m-frame-info-other {
+	            bottom: 3%;
+	        }
+
+			&.qodef-m-frame-even {
+
+	            .qodef-m-frame-info-top {
+	                top: auto;
+		            bottom: 13%;
+	            }
+
+				.qodef-m-frame-info-bottom {
+	                bottom: auto;
+					top: 19%;
+	            }
+	        }
+		}
+
+		.qodef-m-contact-form {
+			height: auto;
+		}
+	}
+
+	@include qodefScreenSize680 {
+
+		.qodef-m-frame-info {
+
+			.qodef-m-frame-info-top {
+				width: auto;
+			    top: 16%;
+
+				.qodef-m-frame-decoration {
+					display: none;
+				}
+
+				.qodef-m-frame-content {
+					text-align: center;
+				}
+
+				.qodef-m-frame-text {
+					display: none;
+				}
+			}
+
+			.qodef-m-frame-info-bottom {
+                bottom: 18%;
+
+				.qodef-m-frame-slide-number {
+					font-size: 100px;
+				}
+	        }
+
+			.qodef-m-frame-info-other {
+
+				a {
+					width: 150px;
+				    height: 46px;
+
+				}
+	        }
+
+			&.qodef-m-frame-even {
+
+	            .qodef-m-frame-info-top {
+		            bottom: 15%;
+	            }
+
+				.qodef-m-frame-info-bottom {
+					top: 20%;
+	            }
+	        }
+		}
+
+		.qodef-m-contact-form {
+			padding: 30px 30px;
+
+			.qodef-m-contact-form-info {
+				display: none;
+			}
+
+			.qodef-cf7-vertical-showcase {
+
+	            .qodef-col {
+	                width: 100%;
+		            padding: 0 !important;
+	            }
+	        }
+
+			.wpcf7 {
+				margin: 0;
+			}
+
+			label {
+				margin-bottom: 0;
+			}
+
+			input[type="text"],
+			input[type="email"],
+			input[type="url"],
+			input[type="password"],
+			input[type="number"],
+			input[type="tel"],
+			input[type="search"],
+			textarea {
+				margin: 0;
+			}
+
+			button[type=submit],
+			input[type=submit] {
+
+				&.qodef-custom {
+					width: 100%;
+					padding: 10px 10px;
+				}
+			}
+
+			.wpcf7-not-valid-tip {
+				bottom: 5px;
+			}
+
+			.use-floating-validation-tip .wpcf7-not-valid-tip {
+				bottom: auto;
+			}
+	    }
+	}
+}
+
+/* ==========================================================================
+   Vertical Showcase responsive style - end
+   ========================================================================== */

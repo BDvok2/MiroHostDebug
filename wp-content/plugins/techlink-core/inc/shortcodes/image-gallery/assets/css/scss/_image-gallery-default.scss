@@ -1,0 +1,38 @@
+/* ==========================================================================
+   Image Gallery shortcode styles
+   ========================================================================== */
+
+.qodef-image-gallery {
+
+	&.qodef--has-hover {
+
+		.qodef-image-wrapper {
+
+			&.qodef--active {
+
+				img {
+					transform: scale(1.05) translateX(7px);
+				}
+			}
+
+			> a,
+			> span {
+				display: block;
+				overflow: hidden;
+			}
+
+			img {
+				transform: scale(1.05) translateX(0);
+				transition: transform .45s cubic-bezier(.22, .61, .36, 1);
+				will-change: transform;
+			}
+
+			&:hover {
+
+				img {
+					transform: scale(1.05) translateX(7px);
+				}
+			}
+		}
+	}
+}

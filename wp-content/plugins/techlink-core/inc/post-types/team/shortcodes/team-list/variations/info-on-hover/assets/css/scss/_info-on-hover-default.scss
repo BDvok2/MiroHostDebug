@@ -1,0 +1,77 @@
+.qodef-team-list {
+
+	&.qodef-item-layout--info-on-hover {
+		
+		.qodef-e-inner {
+			position: relative;
+
+			&:hover {
+
+				.qodef-e-image {
+
+					.qodef-e-media-image {
+						transform: translateX(5%);
+						transition: transform .45s cubic-bezier(.645, .045, .355, 1);
+					}
+				}
+				
+				.qodef-e-content {
+					opacity: 1;
+					z-index: 1; // safari fix
+					transition: opacity .3s ease, z-index 0s;
+
+					.qodef-e-role,
+					.qodef-e-title,
+					.qodef-team-member-social-icons {
+						opacity: 1;
+						transform: translateX(0);
+						transition: .4s ease .15s;
+					}
+
+					.qodef-e-title {
+						transition-delay: .3s;
+					}
+
+					.qodef-team-member-social-icons {
+						transition-delay: .45s;
+					}
+				}
+			}
+		}
+
+		.qodef-e-image {
+			overflow: hidden;
+
+			.qodef-e-media-image {
+				transform: translateX(0);
+				transition: transform 0s;
+			}
+		}
+		
+		.qodef-e-content {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			padding: 43px 49px;
+			background-color: #fff;
+			display: flex;
+			justify-content: flex-end;
+			align-items: flex-start;
+			flex-direction: column;
+			border: 1px solid #e3e4e5;
+			opacity: 0;
+			transition: opacity .3s ease, z-index 0s .3s;
+			z-index: -1; // safari fix
+
+			.qodef-e-role,
+			.qodef-e-title,
+			.qodef-team-member-social-icons {
+				opacity: 0;
+				transform: translateX(-20px);
+				transition: .4s ease;
+			}
+		}
+	}
+}

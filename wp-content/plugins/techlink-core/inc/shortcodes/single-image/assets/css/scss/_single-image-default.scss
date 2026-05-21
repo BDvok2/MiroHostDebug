@@ -1,0 +1,96 @@
+/* ==========================================================================
+   Single Images shortcode styles
+   ========================================================================== */
+
+.qodef-single-image {
+
+	img {
+		display: inline-block;
+	}
+
+	.qodef-m-image {
+		position: relative;
+		z-index: 1;
+	}
+
+	.qodef-m-decoration {
+		@include qodefAbsoluteLayout();
+		display: flex;
+		align-items: flex-start;
+		justify-content: flex-start;
+		overflow: hidden;
+	}
+
+	&.qodef-decoration-horizontal-position--left {
+
+		.qodef-m-decoration {
+			justify-content: flex-start;
+		}
+	}
+
+	&.qodef-decoration-horizontal-position--center {
+
+		.qodef-m-decoration {
+			justify-content: center;
+		}
+	}
+
+	&.qodef-decoration-horizontal-position--right {
+
+		.qodef-m-decoration {
+			justify-content: flex-end;
+		}
+	}
+
+	&.qodef-decoration-vertical-position--top {
+
+		.qodef-m-decoration {
+			align-items: flex-start;
+		}
+	}
+
+	&.qodef-decoration-vertical-position--center {
+
+		.qodef-m-decoration {
+			align-items: center;
+		}
+	}
+
+	&.qodef-decoration-vertical-position--bottom {
+
+		.qodef-m-decoration {
+			align-items: flex-end;
+		}
+	}
+
+	&.qodef--has-appear {
+
+		.qodef-m-image {
+			opacity: 0;
+			transition: .6s ease;
+		}
+
+		&.qodef-animation--left {
+
+			.qodef-m-image {
+				transform: translateX(-100px);
+			}
+		}
+
+		&.qodef-animation--right {
+			transform: translateX(100px);
+		}
+
+		&.qodef--appear {
+
+			&.qodef-animation--left,
+			&.qodef-animation--right {
+
+				.qodef-m-image {
+					transform: translateX(0);
+					opacity: 1;
+				}
+			}
+		}
+	}
+}

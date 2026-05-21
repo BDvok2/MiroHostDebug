@@ -1,0 +1,50 @@
+/* ==========================================================================
+   Team lists shortcode styles
+   ========================================================================== */
+
+.qodef-team-list {
+	
+	.qodef-e-role {
+		margin: 0;
+		@include qodefMetaInfo($text-color);
+	}
+	
+	.qodef-e-title {
+		margin: 4px 0 14px;
+	}
+	
+	.qodef-team-member-social-icons {
+		margin: 0;
+		font-family: $heading-font;
+		font-size: 14px;
+		font-weight: 600;
+		letter-spacing: .35em;
+	}
+
+	&.qodef-swiper-container {
+
+		.qodef-team-member-social-icons {
+			display: inline-flex;
+		}
+	}
+
+	&.qodef--has-hover {
+
+		.qodef-e-media-image {
+			position: relative;
+
+			&:hover {
+
+				.qodef-e-hover-image {
+					opacity: 1;
+				}
+			}
+		}
+
+		.qodef-e-hover-image {
+			@include qodefAbsoluteLayout();
+			opacity: 0;
+			transition: opacity .3s ease;
+		}
+	}
+}

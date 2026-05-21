@@ -1,0 +1,108 @@
+/* ==========================================================================
+   Pricing Table shortcode styles
+   ========================================================================== */
+
+.qodef-pricing-table {
+	@include qodefRelativeLayout();
+
+	&.qodef-status--featured {
+
+		.qodef-m-button {
+
+			.qodef-button {
+				background-color: $main-color;
+			}
+		}
+	}
+
+	.qodef-m-inner-2 {
+		padding: 60px 60px 72px;
+		background-color: $additional-color;
+
+		@include qodefScreenSize480 {
+			padding: 40px 40px 60px;
+		}
+	}
+	
+	.qodef-m-title {
+		
+		p {
+			margin: 0;
+			@include qodefHeadingStyle(h4);
+		}
+	}
+	
+	.qodef-m-subtitle {
+
+		p {
+			margin: 0 0 4px;
+			@include qodefMetaInfo($text-color);
+			letter-spacing: .05em;
+		}
+	}
+
+	.qodef-m-price {
+		margin-bottom: -66px;
+		font-family: $heading-font;
+		font-weight: 700;
+		color: #ebeced;
+		
+		.qodef-m-price-wrapper {
+			display: flex;
+			margin: 0;
+			line-height: 1;
+		}
+
+		.qodef-m-price-currency {
+			position: relative;
+			top: 19px;
+			left: -2px;
+			margin-right: 3px;
+			font-size: 60px;
+		}
+
+		.qodef-m-price-value {
+			font-size: 140px;
+		}
+	}
+	
+	.qodef-m-content {
+		margin: 41px 0 0;
+		
+		ul {
+			list-style: none;
+			margin: 0;
+			
+			li {
+				margin-bottom: 8px;
+				
+				&:last-child {
+					margin-bottom: 0;
+				}
+				
+				&:before {
+					position: relative;
+					top: 2px;
+					left: -3px;
+					content: '\4e';
+					font-family: "ElegantIcons";
+					padding-right: 9px;
+					color: $main-color;
+				}
+			}
+		}
+	}
+	
+	.qodef-m-button {
+		
+		.qodef-button {
+			margin: 5px 0 0;
+			padding: 12px 60px;
+			text-align: left;
+
+			@include qodefScreenSize480 {
+				padding: 12px 21px;
+			}
+		}
+	}
+}

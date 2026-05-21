@@ -1,0 +1,50 @@
+/* ==========================================================================
+   Icon With Text shortcode styles
+   ========================================================================== */
+
+.qodef-icon-with-text {
+
+    &.qodef-layout--before-content {
+        display: flex;
+        align-items: flex-start;
+
+        .qodef-m-icon-wrapper {
+            flex-shrink: 0;
+            margin-top: -4px;
+            margin-right: 31px;
+        }
+
+        &.qodef--has-appear {
+            opacity: 1;
+
+            .qodef-m-icon-wrapper {
+                opacity: 0;
+            }
+
+            .qodef-m-title,
+            .qodef-m-text {
+                opacity: 0;
+                transform: translateY(15px);
+            }
+
+            &.qodef--appear {
+
+                .qodef-m-icon-wrapper {
+                    opacity: 1;
+                    transition: opacity .4s ease;
+                }
+
+                .qodef-m-title,
+                .qodef-m-text {
+                    opacity: 1;
+                    transform: translateY(0);
+                    transition: all .4s ease .2s;
+                }
+
+                .qodef-m-text {
+                    transition-delay: .3s;
+                }
+            }
+        }
+    }
+}

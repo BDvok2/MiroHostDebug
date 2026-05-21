@@ -1,0 +1,115 @@
+/* ==========================================================================
+   Frame Slider shortcode responsive style - begin
+   ========================================================================== */
+
+@include qodefScreenSize1440 {
+
+    .qodef-frame-slider-holder {
+        $bottom-distance: 4%;
+        padding-bottom: $bottom-distance;
+
+        .qodef-m-item {
+            width: 590px;
+
+            img {
+                margin-top: 18px;
+            }
+        }
+    }
+}
+
+@include qodefScreenSize1366 {
+
+    .qodef-frame-slider-holder {
+
+        .qodef-m-item {
+            width: 560px;
+
+            img {
+                margin-top: 15px;
+            }
+        }
+    }
+}
+
+@include qodefScreenSize1280 {
+
+    .qodef-frame-slider-holder {
+
+        .qodef-m-item {
+            width: 525px;
+
+            img {
+                margin-top: 15px;
+            }
+        }
+    }
+}
+
+@include qodefScreenSize1024 {
+
+    .qodef-frame-slider-holder {
+
+        .qodef-m-item {
+            width: 420px;
+
+            img {
+                margin-top: 13px;
+            }
+        }
+    }
+}
+
+@include qodefScreenSize768 {
+
+    .qodef-frame-slider-holder {
+
+        .qodef-m-item {
+            width: 315px;
+
+            img {
+                margin-top: 10px;
+            }
+        }
+    }
+}
+
+@include qodefScreenSize680 {
+
+    .qodef-frame-slider-holder {
+        $bottom-distance: 3%;
+        padding-bottom: $bottom-distance;
+
+        .qodef-m-item {
+            width: 285px;
+
+            img {
+                margin-top: 7px;
+            }
+        }
+    }
+}
+
+@include qodefScreenSize480 {
+
+    .qodef-frame-slider-holder {
+        $bottom-distance: 12.5%;
+        padding-bottom: $bottom-distance;
+
+        .qodef-frame-slider-image {
+            width: 95%;
+        }
+
+        .qodef-m-item {
+            width: 295px;
+
+            img {
+                margin-top: 7px;
+            }
+        }
+    }
+}
+
+/* ==========================================================================
+   Frame Slider shortcode responsive style - end
+   ========================================================================== */

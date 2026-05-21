@@ -1,0 +1,114 @@
+/* ==========================================================================
+   Icon With Text shortcode styles
+   ========================================================================== */
+
+.qodef-icon-with-text {
+	
+	.qodef-m-title {
+		margin: 0;
+		
+		a {
+			display: block;
+			
+			&:hover {
+				color: inherit;
+			}
+		}
+	}
+	
+	.qodef-m-text {
+		margin: 11px 0 0;
+		font-weight: 300;
+	}
+	
+	.qodef-m-icon-wrapper {
+		line-height: 1;
+	}
+	
+	.qodef-icon-holder {
+		float: none;
+	}
+	
+	.qodef-m-content {
+		@include qodefRelativeLayout();
+	}
+	
+	&.qodef--custom-icon {
+		
+		.qodef-m-icon-wrapper {
+			position: relative;
+			display: inline-block;
+			vertical-align: top;
+			
+			a, img {
+				display: block;
+			}
+
+			.qodef-m-custom-icon-hover {
+				@include qodefAbsoluteLayout();
+				opacity: 0;
+				transition: opacity .3s ease;
+			}
+
+			&:hover {
+
+				.qodef-m-custom-icon-hover {
+					opacity: 1;
+				}
+			}
+		}
+
+		&.qodef--active {
+
+			.qodef-m-icon-wrapper {
+
+				.qodef-m-custom-icon-hover {
+					opacity: 1;
+				}
+			}
+		}
+	}
+	
+	&.qodef--has-appear {
+		opacity: 0;
+		transition: .7s ease-in-out .1s;
+		
+		svg {
+			circle {
+				stroke-dasharray: 550;
+				stroke-dashoffset: 550;
+				transition: 1s ease-in-out .2s;
+			}
+			
+			line,
+			path {
+				
+				&:not(.has-stroke-dash){
+					stroke-dasharray: 350;
+					stroke-dashoffset: 350;
+				}
+				 &.has-stroke-dash {
+					 opacity: 0;
+				 }
+				
+				transition: 1.5s ease-in-out .5s;
+			}
+		}
+		&.qodef--appear {
+			opacity: 1;
+			
+			svg {
+				circle,
+				line,
+				path {
+					&:not(.has-stroke-dash){
+						stroke-dashoffset: 0;
+					}
+					&.has-stroke-dash {
+						opacity: 1;
+					}
+				}
+			}
+		}
+	}
+}

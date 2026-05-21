@@ -1,0 +1,230 @@
+/* ==========================================================================
+   Header common styles
+   ========================================================================== */
+
+$left-right-spacing: 12px;
+
+#qodef-page-header {
+	.qodef-widget-holder {
+		display: flex;
+		align-items: center;
+		height: 100%;
+		margin-left: $left-right-spacing * 2;
+
+		.widget {
+			margin: 0 $left-right-spacing;
+			
+			&:first-child {
+				margin-left: 0;
+			}
+			
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+
+		.qodef-header-box-styled-widgets--enabled & {
+
+			.widget {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				height: 100%;
+				margin: 0;
+				border-left: 1px solid rgba(0, 0, 0, 0.1);
+				border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+				box-sizing: content-box;
+			}
+		}
+
+		.qodef-header-last-widget-special-style--enabled.qodef-header-box-styled-widgets--enabled & {
+
+			.widget {
+
+				&:last-child {
+					color: $background-color;
+					background-color: $main-color;
+					border-left-color: $main-color;
+					border-bottom-color: $main-color;
+
+					a {
+						color: inherit !important;
+					}
+				}
+			}
+		}
+
+		.qodef-header-last-widget-special-style--enabled.qodef-header-box-styled-widgets--enabled.qodef-header-custom-style--enabled & {
+
+			.widget {
+
+				&:last-child {
+					background-color: #98d2c3 !important;
+					border-left-color: #98d2c3 !important;
+					border-bottom-color: #98d2c3 !important;
+				}
+			}
+		}
+
+		.qodef-header-custom-styled-special-line.qodef-header-box-styled-widgets--enabled & {
+
+			.widget {
+				border-bottom: none;
+			}
+		}
+
+		.qodef-header-custom-styled-special-line.qodef-header-box-styled-widgets--enabled.qodef-header-custom-style--enabled & {
+
+			.widget {
+
+				&:last-child {
+					border-bottom: none !important;
+				}
+			}
+		}
+	}
+	
+	div[id^="monster-widget-placeholder"],
+	div[id^="woo-monster-widget-placeholder"] {
+		display: none;
+	}
+}
+
+#qodef-page-header-inner {
+	
+	&.qodef-content-grid {
+		padding: 0;
+	}
+
+	&.qodef-skin--light {
+
+		.qodef-widget-holder {
+
+			.qodef-header-box-styled-widgets--enabled & {
+
+				.widget {
+					border-left-color: rgba(#e5e5e1, .2);
+					border-bottom-color: rgba(#e5e5e1, .2);
+				}
+			}
+		}
+	}
+}
+
+$header-light-skin-color: #fff;
+$header-light-skin-hover-color: $main-color;
+$header-dark-skin-color: #000;
+$header-dark-skin-hover-color: $main-color;
+
+#qodef-page-header-inner,
+.qodef-custom-header-layout {
+	
+	&.qodef-skin--light {
+		
+		nav > ul > li {
+			
+			> a {
+				color: $header-light-skin-color !important;
+				transition: color .2s ease-out, background-color .32s cubic-bezier(.31,.29,.05,.96);
+			}
+
+			&:hover {
+
+				> a {
+					color: $heading-color !important;
+					background-color: $background-color;
+				}
+			}
+			
+			&.current-menu-ancestor,
+			&.current-menu-item {
+				
+				> a {
+					color: $header-light-skin-color !important;
+					background-color: transparent;
+				}
+
+				&:hover {
+
+					> a {
+						color: $heading-color !important;
+						background-color: $background-color;
+					}
+				}
+			}
+		}
+		
+		.qodef-opener-icon {
+			
+			&.qodef-source--icon-pack,
+			&.qodef-source--svg-path,
+			&.qodef-source--predefined {
+				
+				&:not(.qodef--opened) {
+					color: $header-light-skin-color !important;
+				}
+			}
+		}
+	}
+	
+	&.qodef-skin--dark {
+		
+		nav > ul > li {
+
+			> a {
+				color: $header-dark-skin-color !important;
+				transition: color .2s ease-out, background-color .32s cubic-bezier(.31,.29,.05,.96);
+			}
+
+			&:hover {
+
+				> a {
+					color: $heading-color !important;
+					background-color: $background-color;
+				}
+			}
+
+			&.current-menu-ancestor,
+			&.current-menu-item {
+
+				> a {
+					color: $header-dark-skin-color !important;
+					background-color: transparent;
+				}
+
+				&:hover {
+
+					> a {
+						color: $heading-color !important;
+						background-color: $background-color;
+					}
+				}
+			}
+		}
+		
+		.qodef-opener-icon {
+			
+			&.qodef-source--icon-pack,
+			&.qodef-source--svg-path,
+			&.qodef-source--predefined {
+				
+				&:not(.qodef--opened) {
+					color: $header-dark-skin-color !important;
+				}
+			}
+		}
+	}
+}
+
+/**
+ * Show/hide second/dropdown menu
+ */
+//#qodef-page-wrapper {
+//	transition: all 0.4s ease-in-out;
+//
+//	.qodef-dropdown-menu-opened & {
+//		background-color: rgba(0, 0, 0, .03);
+//		opacity: 1;
+//		z-index: 99999;
+//	}
+//}

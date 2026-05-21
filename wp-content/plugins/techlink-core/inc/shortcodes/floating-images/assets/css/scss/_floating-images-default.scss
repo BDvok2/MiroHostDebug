@@ -1,0 +1,55 @@
+/* ==========================================================================
+   Floating Images shortcode style - begin
+   ========================================================================== */
+
+.qodef-floating-images {
+
+	.qodef-m-inner {
+        position: relative;
+        display: inline-block;
+    }
+
+    .qodef-m-image-holder {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+    .qodef-m-image-wrapper {
+        height: 100%;
+    }
+
+    .qodef-m-main-image-holder {
+        //z-index: 10;
+    }
+
+    img {
+        position: absolute;
+        max-width: none;
+        border-radius: 8px;
+        border: 0;
+
+        .elementor & {
+            border-radius: 8px;
+            max-width: none;
+        }
+    }
+
+    &.qodef-alignment--center {
+		text-align: center;
+	}
+
+	&.qodef-alignment--left {
+		text-align: left;
+	}
+
+	&.qodef-alignment--right {
+		text-align: right;
+	}
+}
+
+/* ==========================================================================
+   Floating Images shortcode style - begin
+   ========================================================================== */

@@ -1,0 +1,485 @@
+/* ==========================================================================
+   Vertical Showcase style - begin
+   ========================================================================== */
+
+.qodef-vertical-showcase {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+
+    &.qodef-vertical-showcase-ready-animation {
+
+        .qodef-m-frame-holder {
+            opacity: 0;
+            transform: translateY(100%);
+        }
+
+        .qodef-m-stripe {
+            top: 0 !important;
+        }
+    }
+
+    &.qodef-vertical-showcase-no-frame {
+        .qodef-m-frame-mobile-holder img {
+            opacity: 0;
+        }
+    }
+
+    &.qodef-vertical-showcase-last-slide {
+        
+        .qodef-m-stripe {
+            top: 0 !important;
+            transition: 1.2s .15s cubic-bezier(1,.12,.25,1) !important;
+        }
+
+        .qodef-m-contact-form {
+            transform: translateY(0);
+        }
+
+        .qodef-m-frame-holder {
+            opacity: 1;
+            transform: translateY(-160%);
+        }
+
+        .qodef-m-frame-info {
+
+            .qodef-m-frame-info-top {
+
+                .qodef-m-frame-decoration, .qodef-m-frame-title, .qodef-m-frame-text {
+                    transform: translateX(-200px);
+                    opacity: 0;
+                }
+            }
+
+            .qodef-m-frame-info-bottom {
+
+                .qodef-m-frame-slide-number {
+                    transform: translateY(-50%) translateX(-482px);
+                    opacity: 0;
+                }
+
+                .qodef-m-frame-slide-tagline {
+                    transform: translateX(-469px);
+                    opacity: 0;
+                }
+
+                .qodef-m-frame-slide-decoration {
+                    transform: scaleX(0);
+                    transition: 1s;
+                }
+            }
+
+            .qodef-m-frame-info-other {
+                transform: translateX(-50%) translateY(200px);
+                opacity: 0;
+            }
+        }
+    }
+
+    &:not(.qodef-vertical-showcase-last-slide) {
+
+        .qodef-m-frame-info {
+
+            .qodef-m-frame-info-top {
+                z-index: 2;
+            }
+
+            .qodef-m-frame-info-bottom {
+                z-index: 2;
+            }
+
+            .qodef-m-frame-info-other {
+                z-index: 4;
+            }
+        }
+    }
+
+    .qodef-m-stripe {
+        position: absolute;
+        top: 50%;
+        left: auto;
+        width: 300%;
+        height: 200%;
+        background: $main-color;
+        backface-visibility: hidden;
+        transform-style: preserve-3d;
+        transform-origin: 50% 0;
+        transition: 1.2s .3s cubic-bezier(1, 0.12, 0.25, 1);
+        will-change: transform;
+    }
+
+    .qodef-m-holder {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-image: url('../img/app-bg.jpg');
+        overflow: hidden;
+    }
+
+    .qodef-m-item-info {
+        display: none;
+    }
+
+    .qodef-m-frame-info {
+        transition: 1.2s .3s cubic-bezier(1,.12,.25,1);
+
+        .touch & {
+            pointer-events: none; //allow swiper touch-move
+        }
+
+        &.qodef-m-frame-animate-out {
+
+            .qodef-m-frame-info-top {
+
+                .qodef-m-frame-decoration, .qodef-m-frame-title, .qodef-m-frame-text {
+                    transform: translateX(-200px);
+                    opacity: 0;
+                }
+            }
+
+            .qodef-m-frame-info-bottom {
+
+                .qodef-m-frame-slide-number {
+                    transform: translateY(-50%) translateX(482px);
+                    opacity: 0;
+                }
+
+                .qodef-m-frame-slide-tagline {
+                    transform: translateX(469px);
+                    opacity: 0;
+                }
+
+                .qodef-m-frame-slide-decoration {
+                    transform: scaleX(0);
+                    transition: 1s;
+                }
+            }
+
+            .qodef-m-frame-info-other {
+                transform: translateX(-50%) translateY(200px);
+                opacity: 0;
+            }
+        }
+
+        &.qodef-m-frame-even {
+
+            .qodef-m-frame-info-top {
+                margin-top: 4.9%;
+            }
+
+            .qodef-m-frame-info-bottom {
+                margin-top: -7.8%;
+            }
+        }
+
+        .qodef-m-frame-info-top {
+            position: absolute;
+            left: 15.6%;
+            display: flex;
+            align-items: flex-start;
+            margin-top: -9.9%;
+            width: 380px;
+            opacity: 1;
+            box-sizing: border-box;
+
+            .qodef-m-frame-decoration {
+                transition: transform 1s .3s, opacity .3s .3s;
+            }
+
+            .qodef-m-frame-title {
+                transition: transform 1s .4s, opacity .3s .4s;
+            }
+
+            .qodef-m-frame-text {
+                transition: transform 1s .5s, opacity .3s .5s;
+            }
+        }
+
+        .qodef-m-frame-info-bottom {
+            position: absolute;
+            left: 50%;
+            margin-top: 7.3%;
+            color: #fff;
+            transform: translateX(-45%);
+
+            .qodef-m-frame-slide-number {
+                transition: transform 1s .2s, opacity .5s .4s;
+                opacity: 1;
+            }
+
+            .qodef-m-frame-slide-tagline {
+                transition: transform 1.5s .1s, opacity .5s .2s;
+                opacity: 1;
+            }
+
+            .qodef-m-frame-slide-decoration {
+                transform: scaleX(1);
+                transition: 1s .3s;
+            }
+        }
+
+        .qodef-m-frame-info-other {
+            position: absolute;
+            bottom: 3%;
+            left: 50%;
+            display: flex;
+            color: #fff;
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+            transition: transform 1s .2s,opacity .2s .3s;
+
+            .touch & {
+                pointer-events: auto; //override parent pointer-events none on touch devices
+            }
+
+            a {
+                position: relative;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 212px;
+                height: 55px;
+                margin: 0 7px;
+                border-radius: 3px;
+
+                &.qodef-m-item-app-store-link {
+                    background-color: #828ef7;
+                }
+
+                &.qodef-m-item-play-store-link {
+                    background-color: #98d2c3;
+                }
+
+                img {
+                    transition: .3s;
+                }
+            }
+        }
+    }
+
+    .qodef-m-frame-slide-number {
+        position: absolute;
+        top: 50%;
+        font-family: $heading-font;
+        font-size: 140px;
+        font-weight: 700;
+        line-height: 1em;
+        text-transform: uppercase;
+        color: #828ef7;
+        transform: translateY(-50%);
+        z-index: -1;
+    }
+
+    .qodef-m-frame-slide-info {
+        display: flex;
+        align-items: center;
+        padding-left: 7px;
+    }
+
+    .qodef-m-frame-slide-tagline {
+        @include qodefMetaInfo(#fff);
+        width: 156px;
+    }
+
+    .qodef-m-frame-slide-decoration {
+        background: -webkit-gradient(linear,0 0,100% 0,from(#fff),to(rgba(255, 255, 255, 0)),color-stop(5%,#fff),color-stop(5%,#fff));
+        width: 41vw;
+        height: 1px;
+    }
+
+    .qodef-m-frame-decoration {
+        flex-shrink: 0;
+        margin-top: -4px;
+        margin-right: 31px;
+    }
+
+    .qodef-m-frame-title {
+        position: relative;
+        margin: 0;
+    }
+
+    .qodef-m-frame-text {
+        margin: 11px 0 0;
+    }
+
+    .qodef-m-frame-holder {
+        position: absolute;
+        width: auto;
+        height: 83vh;
+        pointer-events: none;
+        z-index: 3;
+        transition: 1.2s .3s cubic-bezier(1,.12,.25,1);
+
+        .qodef-m-frame-mobile-holder {
+            width: 100%;
+            height: 100%;
+        }
+
+        img {
+            position: relative;
+            width: auto;
+            height: 100%;
+            z-index: 2;
+        }
+
+        .qodef-m-inner-frame {
+            width: 67%;
+            height: 84%;
+            margin: 0;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translateX(-50%) translateY(-50%);
+            background-size: cover;
+            background-repeat: no-repeat;
+            //border-radius: 16%;
+
+            div {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 1;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                    z-index: 1;
+                }
+
+                &.active {
+                    z-index: 20;
+                    clip-path: inset(0 100% 0 0);
+                    -webkit-clip-path: inset(0 100% 0 0);
+                    animation: qode-reveal-frame-image 1s .2s cubic-bezier(.22,.61,.36,1) forwards;
+                }
+
+                &.prev-active {
+                    z-index: 10;
+                }
+            }
+        }
+    }
+
+    .swiper-container {
+        width: 100%;
+        height: 100vh;
+
+        .swiper-wrapper {
+            transition: 1s .5s !important;
+        }
+
+        .swiper-slide:last-of-type(1) {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            opacity: 1 !important;
+        }
+
+        img {
+            height: 700px;
+            visibility: hidden;
+        }
+    }
+
+    .swiper-pagination {
+
+        // Limit pagination bullets to be clickable ONLY for adjacent slides
+        .swiper-pagination-bullet {
+            pointer-events: none;
+
+            &.bullet-clickable {
+                pointer-events: auto;
+            }
+        }
+    }
+
+    .qodef-m-contact-form-holder {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .qodef-m-contact-form {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 68vw;
+        height: 78vh;
+        overflow: hidden;
+        position: relative;
+        padding: 0 110px;
+        background: #fff;
+        box-sizing: border-box;
+        transform: translateY(120%);
+        transition: 1.2s .3s cubic-bezier(1,.12,.25,1);
+
+        .qodef-section-title {
+
+            .qodef-m-content {
+                padding: 0 16%;
+            }
+
+            .qodef-m-subtitle {
+                margin: 0 0 14px;
+            }
+
+            .qodef-m-text {
+                margin: 14px 0 0;
+                font-size: 19px;
+                line-height: 30px;
+            }
+        }
+
+        .wpcf7 {
+            width: 100%;
+            margin: 68px 0 0;
+        }
+
+        .qodef-cf7-vertical-showcase {
+            display: flex;
+            flex-wrap: wrap;
+
+            .qodef-col {
+                width: 50%;
+
+                &:nth-child(2n+1) {
+                    padding-right: 15px;
+                }
+
+                &:nth-child(2n) {
+                    padding-left: 15px;
+                }
+            }
+
+            .qodef-submit-holder {
+                width: 100%;
+                text-align: center;
+
+                .ajax-loader {
+                    position: absolute;
+                }
+            }
+        }
+
+        button[type=submit],
+        input[type=submit] {
+
+            &.qodef-custom {
+                padding: 10px 71px;
+            }
+        }
+    }
+}
+
+/* ==========================================================================
+   Vertical Showcase style style - end
+   ========================================================================== */

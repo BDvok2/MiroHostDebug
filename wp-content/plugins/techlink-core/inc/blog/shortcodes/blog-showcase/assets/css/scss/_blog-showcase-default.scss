@@ -1,0 +1,83 @@
+/* ==========================================================================
+   Blog List Showcase styles
+   ========================================================================== */
+
+.qodef-blog.qodef-blog-showcase {
+	display: flex;
+	flex-wrap: wrap;
+
+	.qodef-grid-inner {
+		width: 100%;
+	}
+
+	article {
+		width: 50%;
+
+		&:nth-child(5n+1),
+		&:nth-child(5n+3) {
+			padding-right: 15px;
+		}
+
+		&:nth-child(5n+2),
+		&:nth-child(5n+4) {
+			padding-left: 15px;
+		}
+
+		&:nth-child(5n) {
+			width: 100%;
+			padding: 0;
+		}
+
+		@include qodefScreenSize680 {
+			width: 100%;
+			padding: 0 !important;
+		}
+		
+		&.qodef-blog-item {
+			margin: 0 0 70px;
+
+			&.qodef--active {
+
+				.qodef-e-media {
+
+					img {
+						transform: scale(1.05) translateX(7px);
+					}
+				}
+			}
+			
+			.qodef-e-media {
+				margin-bottom: 19px;
+				overflow: hidden;
+
+				img {
+					transform: scale(1.05) translateX(0);
+					transition: transform .45s cubic-bezier(.22,.61,.36,1);
+					will-change: transform;
+				}
+
+				&:hover {
+
+					img {
+						transform: scale(1.05) translateX(7px);
+					}
+				}
+			}
+
+			.qodef-e-title-link {
+
+				&:hover {
+					color: currentColor;
+				}
+			}
+			
+			.qodef-e-excerpt {
+				margin: 11px 0 0;
+			}
+			
+			.qodef-e-info.qodef-info--bottom {
+				margin-top: 7px;
+			}
+		}
+	}
+}

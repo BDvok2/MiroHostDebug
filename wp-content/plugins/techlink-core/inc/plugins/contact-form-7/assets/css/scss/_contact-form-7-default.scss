@@ -1,0 +1,29 @@
+.wpcf7 {
+
+    &-response-output {
+        margin: 2em 0 0 0 !important;
+    }
+
+    .ajax-loader {
+        background-image: none !important;
+        border: 2px solid #e6e6e6 !important;
+        border-top: 2px solid $main-color !important;
+        border-radius: 50%;
+        width: 23px !important;
+        height: 23px !important;
+        margin: 0 0 0 12px !important;
+        animation: qode-rotate 2s linear infinite;
+    }
+}
+
+.wpcf7-not-valid-tip {
+	position: absolute;
+    bottom: -40px;
+}
+
+.use-floating-validation-tip .wpcf7-not-valid-tip {
+	position: absolute;
+    bottom: auto;
+	top: 20%;
+	left: 20%;
+}

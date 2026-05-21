@@ -1,0 +1,23 @@
+/* ==========================================================================
+   Related Posts styles
+   ========================================================================== */
+
+#qodef-related-posts {
+	@include qodefRelativeLayout();
+	margin-top: 117px;
+	
+	.qodef-related-posts-content {
+		@include qodefRelativeLayout();
+		
+		.qodef-related-posts-subtitle {
+			@include qodefMetaInfo();
+			font-size: 13px;
+			letter-spacing: 0.05em;
+		}
+		
+		.qodef-related-posts-title {
+			@include qodefHeadingStyle(h3);
+			margin-bottom: 50px;
+		}
+	}
+}

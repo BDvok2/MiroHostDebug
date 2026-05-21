@@ -1,0 +1,25 @@
+.qodef-banner {
+	
+	&.qodef-layout--link-overlay {
+		
+		.qodef-m-image {
+			overflow: hidden;
+
+			img {
+				transform: translate(0);
+				transition: transform .45s cubic-bezier(.22,.61,.36,1);
+				will-change: transform;
+			}
+		}
+
+		&:hover {
+
+			.qodef-m-image {
+
+				img {
+					transform: translate(20px);
+				}
+			}
+		}
+	}
+}

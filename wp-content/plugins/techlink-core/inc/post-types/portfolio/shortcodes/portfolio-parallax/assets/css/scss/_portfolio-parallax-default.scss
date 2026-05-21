@@ -1,0 +1,99 @@
+/* ==========================================================================
+   Portfolio Parallax shortcode styles
+   ========================================================================== */
+
+.qodef-portfolio-parallax {
+
+	article {
+		position: relative;
+		height: 80vh;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+
+		> a {
+			@include qodefAbsoluteLayout();
+			z-index: 1;
+		}
+	}
+
+	.qodef-m-parallax-texts {
+		position: fixed;
+		top: 0;
+		left: 0;
+		height: 100vh;
+		width: 100vw;
+		color: #fff;
+		z-index: 90;
+		pointer-events: none;
+		opacity: 0;
+
+		.qodef-e-helper-1,
+		.qodef-e-helper-2 {
+			overflow: hidden;
+		}
+
+		.qodef-e-item {
+			position: absolute;
+			left: 7.8%;
+			top: 50%;
+			width: 460px;
+			transform: translateY(-50%);
+			overflow: hidden;
+
+			@include qodefScreenSize680 {
+				width: calc(100% - 2 * 7.8%);
+			}
+		}
+	}
+
+	.qodef-e-info-category {
+		margin: 0 0 5px;
+		@include qodefMetaInfo(#fff);
+
+		a {
+			color: inherit;
+
+			&:hover {
+				color: $heading-color;
+			}
+
+			&:after {
+				content: '−';
+				color: #fff;
+			}
+
+			&:last-child:after {
+				display: none;
+			}
+		}
+	}
+
+	.qodef-e-title {
+		margin: 0;
+		font-family: $heading-font;
+		font-size: 36px;
+		font-weight: 700;
+		line-height: 1;
+		text-transform: uppercase;
+		letter-spacing: .15em;
+		color: #fff;
+	}
+
+	.qodef-e-excerpt {
+		width: 70%;
+		margin: 11px 0 0;
+
+		@include qodefScreenSize680 {
+			width: 100%;
+		}
+	}
+
+	&.init {
+		.qodef-m-parallax-texts {
+			opacity: 1;
+			transition: opacity .6s;
+		}
+	}
+}

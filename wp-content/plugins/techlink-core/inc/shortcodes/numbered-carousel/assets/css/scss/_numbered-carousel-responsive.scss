@@ -1,0 +1,97 @@
+/* ==========================================================================
+   Numbered carousel shortcode responsive style - begin
+   ========================================================================== */
+
+.qodef-numbered-carousel {
+	@include qodefScreenSize1440 {
+        .qodef-m-item {
+            .qodef-m-item-inner,
+            .qodef-m-item-text-wrapper {
+                max-width: 80%;
+            }
+        }
+    }
+
+    @include qodefScreenSize1280 {
+        .qodef-m-item {
+            .qodef-m-item-inner,
+            .qodef-m-item-text-wrapper {
+                max-width: 85%;
+            }
+        }
+    }
+
+    @include qodefScreenSize1024 {
+        .qodef-m-grid {
+            .qodef-m-grid-line:first-child {
+                display: none;
+            }
+
+            .qodef-m-grid-line:nth-child(2) {
+                left: 0%;
+                width: 20%;
+            }
+
+            .qodef-m-grid-line:nth-child(3) {
+                left: 20%;
+                width: 30%;
+            }
+
+            .qodef-m-grid-line:nth-child(4) {
+                left: 50%;
+                width: 30%;
+            }
+
+            .qodef-m-grid-line:last-child {
+                left: 80%;
+                width: 20%;
+            }
+        }
+
+        .qodef-m-item {
+            .qodef-m-item-inner {
+                max-width: 95%;
+            }
+
+            .qodef-m-item-number-wrapper {
+                width: 30vw;
+                align-items: flex-end;
+            }
+
+            .qodef-m-item-number {
+                margin-bottom: 5vh;
+            }
+        }
+
+        .swiper-slide-prev,
+        .swiper-slide-next {
+            .qodef-m-item-number-wrapper {
+                width: 20vw;
+            }
+        }
+    }
+
+    @include qodefScreenSize768 {
+        .qodef-m-item {
+            .qodef-m-item-inner {
+                max-width: 100%;
+            }
+        }
+    }
+
+    @include qodefScreenSize680 {
+        .qodef-m-item {
+            width: 100vw;
+            margin: 0;
+            padding: 5%;
+
+            .qodef-m-item-text,
+            .qodef-m-item-number-wrapper {
+                display: none;
+            }
+        }
+    }
+}
+/* ==========================================================================
+   Numbered carousel shortcode responsive style - end
+   ========================================================================== */
