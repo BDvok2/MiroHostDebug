@@ -1,13 +1,4 @@
 <?php
-//Begin Really Simple Security session cookie settings
-@ini_set('session.cookie_httponly', true);
-@ini_set('session.cookie_secure', true);
-@ini_set('session.use_only_cookies', true);
-//END Really Simple Security cookie settings
-//Begin Really Simple Security key
-define('RSSSL_KEY', 'JaEo7WAmWjL810m7vg1K7evdIVr0l3ravkBRIohH54n93ekyOHew5KT3clGdcM3i');
-//END Really Simple Security key
-
 define( 'WP_CACHE', true );
 /**
  * The base configuration for WordPress
@@ -92,7 +83,7 @@ $table_prefix = 'zmso_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
-define('ALLOW_UNFILTERED_UPLOADS', true);
+// define('ALLOW_UNFILTERED_UPLOADS', true); // Disabled during cleanup
 
 define( 'WP_SITEURL', 'https://krndsh.com/' );
 /* That's all, stop editing! Happy publishing. */

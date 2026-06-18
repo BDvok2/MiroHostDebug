@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://krndsh.com/?sitemapindex.xml
-Sitemap: https://krndsh.com/?sitemap912.xml
-Sitemap: https://krndsh.com/?sitemap848.xml
-Sitemap: https://krndsh.com/?sitemap76.xml
-Sitemap: https://krndsh.com/?sitemap222.xml
-Sitemap: https://krndsh.com/?sitemap15.xml
-Sitemap: https://krndsh.com/buy.php?sitemap815.xml
+Sitemap: https://krndsh.com/sitemap.xml
